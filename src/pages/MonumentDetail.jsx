@@ -1,6 +1,7 @@
 import { useParams, Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { MONUMENTS, VISITOR_CATEGORIES } from "../data/monuments";
+import ImageCarousel from "../components/ImageCarousel";
 
 export default function MonumentDetail() {
   const { id } = useParams();
@@ -21,7 +22,8 @@ export default function MonumentDetail() {
     );
   }
 
-  const { name, city, state, circle, category, description, image, pricing, unesco, tags, timings, extraNote, bookingUrl, slots } = monument;
+  const { name, city, state, circle, category, description, image, images, pricing, unesco, tags, timings, extraNote, bookingUrl, slots } = monument;
+  const galleryImages = images?.length ? images : (image ? [image] : []);
 
   const selectedVisitor = VISITOR_CATEGORIES.find((v) => v.id === visitorType);
   const adultPrice = pricing[selectedVisitor.priceKey] || 0;
@@ -37,21 +39,15 @@ export default function MonumentDetail() {
     <div className="max-w-4xl mx-auto px-4 py-8">
       <Link to="/monuments" className="text-orange-600 text-sm hover:underline mb-4 inline-block no-print">← All Monuments</Link>
 
-      {/* Hero Image */}
-      <div className="relative rounded-2xl overflow-hidden h-64 md:h-80 mb-6 bg-stone-200">
-        <img
-          src={image}
-          alt={name}
-          className="w-full h-full object-cover"
-          onError={(e) => { e.target.src = "https://placehold.co/800x400/d4c7b0/4a382b?text=" + encodeURIComponent(name); }}
-        />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
-        <div className="absolute bottom-4 left-5 text-white">
+      {/* Hero Carousel */}
+      <div className="relative mb-6">
+        <ImageCarousel images={galleryImages} name={name} />
+        <div className="absolute bottom-4 left-5 text-white pointer-events-none">
           <div className="flex gap-2 mb-1 flex-wrap">
             {unesco && <span className="bg-blue-600 text-white text-xs font-semibold px-2 py-0.5 rounded-full">UNESCO World Heritage</span>}
             <span className="bg-white/20 backdrop-blur-sm text-white text-xs px-2 py-0.5 rounded-full">{category}</span>
           </div>
-          <h1 className="text-2xl md:text-3xl font-bold">{name}</h1>
+          <h1 className="text-2xl md:text-3xl font-bold drop-shadow">{name}</h1>
           <p className="text-white/80 text-sm">{city}, {state} · ASI {circle} Circle</p>
         </div>
       </div>

@@ -3,6 +3,12 @@ export const MONUMENTS = [
   {
     id: "taj-mahal",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/960px-Taj_Mahal_%28Edited%29.jpeg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Detail_of_plant_motifs_on_Taj_Mahal_wall.jpg/960px-Detail_of_plant_motifs_on_Taj_Mahal_wall.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dome_Chhatris_Spires_-_Taj_Mahal_-_Agra_2014-05-14_3805.JPG/960px-Dome_Chhatris_Spires_-_Taj_Mahal_-_Agra_2014-05-14_3805.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flowers_on_a_wall_%28Unsplash%29.jpg/960px-Flowers_on_a_wall_%28Unsplash%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ec/Interior4.jpg"
+    ],
     name: "Taj Mahal",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -19,6 +25,12 @@ export const MONUMENTS = [
   {
     id: "agra-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/960px-Agra_03-2016_10_Agra_Fort.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/AgraFortColumn.jpg/960px-AgraFortColumn.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/960px-Agra_03-2016_10_Agra_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Agra_Fort_13.JPG/960px-Agra_Fort_13.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Agra_Fort_20.jpg/960px-Agra_Fort_20.jpg"
+    ],
     name: "Agra Fort",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -34,6 +46,12 @@ export const MONUMENTS = [
   {
     id: "fatehpur-sikri",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/960px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fatehpur_Sikiri_Salim_Chishti_Tomb_2010.jpg/960px-Fatehpur_Sikiri_Salim_Chishti_Tomb_2010.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Fatehpur_Sikri_042.JPG/960px-Fatehpur_Sikri_042.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/a/ad/Fatehpur_Sikri_099.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehpur_Sikri_120.JPG/960px-Fatehpur_Sikri_120.JPG"
+    ],
     name: "Fatehpur Sikri",
     city: "Fatehpur Sikri",
     state: "Uttar Pradesh",
@@ -48,6 +66,12 @@ export const MONUMENTS = [
   {
     id: "itmad-ud-daulah",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Itmad-ud-Daula_Agra_2.jpg/960px-Itmad-ud-Daula_Agra_2.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/I%27tim%C4%81d-ud-Daulah%2C_Agra.jpg/960px-I%27tim%C4%81d-ud-Daulah%2C_Agra.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Agra_17_-_Itimad-ud-Daula_tomb_%2828522238478%29.jpg/960px-Agra_17_-_Itimad-ud-Daula_tomb_%2828522238478%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Itmad-ud-Daula_01.JPG/960px-Itmad-ud-Daula_01.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Itmad-ud-Daula_24.JPG/960px-Itmad-ud-Daula_24.JPG"
+    ],
     name: "Itimad-ud-Daulah's Tomb",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -62,6 +86,12 @@ export const MONUMENTS = [
   {
     id: "akbars-tomb",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Akbar%27s_Tomb_in_Sikandra_15.jpg/960px-Akbar%27s_Tomb_in_Sikandra_15.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Akbar%27s_Tomb_2.jpg/960px-Akbar%27s_Tomb_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Akbar%27s_Tomb_4.jpg/960px-Akbar%27s_Tomb_4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Akbar%27s_Tomb_in_Sikandra_15.jpg/960px-Akbar%27s_Tomb_in_Sikandra_15.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b4/Akbar_at_his_court.jpg"
+    ],
     name: "Akbar's Tomb (Sikandra)",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -76,6 +106,12 @@ export const MONUMENTS = [
   {
     id: "mariams-tomb",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mariam%27s_Tomb%2C_Sikandra%2C_Agra.JPG/960px-Mariam%27s_Tomb%2C_Sikandra%2C_Agra.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ASI_board_outside_the_tomb.jpg/960px-ASI_board_outside_the_tomb.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AkbarMariamuzZamani.jpg/960px-AkbarMariamuzZamani.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Detailing_on_the_structure_comprising_Tomb_of_Mariam-uz-Zamani.jpg/960px-Detailing_on_the_structure_comprising_Tomb_of_Mariam-uz-Zamani.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/Grave_of_Mariam-uz-Zamani_built_underground_with_flight_of_steps_leading_to_it.jpg"
+    ],
     name: "Mariam's Tomb (Sikandra)",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -90,6 +126,12 @@ export const MONUMENTS = [
   {
     id: "mehtab-bagh",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mehtab_Bagh_facing_Taj_Mahal.JPG/960px-Mehtab_Bagh_facing_Taj_Mahal.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg/960px-Bird%27s_Eye_View_of_the_Taj_Mahal_at_Agra.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/India-6194_-_Flickr_-_archer10_%28Dennis%29.jpg/960px-India-6194_-_Flickr_-_archer10_%28Dennis%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mehtab_Bagh_facing_Taj_Mahal.JPG/960px-Mehtab_Bagh_facing_Taj_Mahal.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pavilion_opposite_the_Taj_Mahal%2C_Agra%2C_India.jpg/960px-Pavilion_opposite_the_Taj_Mahal%2C_Agra%2C_India.jpg"
+    ],
     name: "Mehtab Bagh",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -104,6 +146,12 @@ export const MONUMENTS = [
   {
     id: "rambagh",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Chhatri_at_Arambagh_2.jpg/960px-Chhatri_at_Arambagh_2.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Chhatri_at_Arambagh_2.jpg/960px-Chhatri_at_Arambagh_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pavilions_of_Aram_Bagh_1.jpg/960px-Pavilions_of_Aram_Bagh_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Indian_empire-_history%2C_topography%2C_geology%2C_climate%2C_population%2C_chief_cities_and_provinces%3B_tributary_and_protected_states%3B_military_power_and_resources%3B_religion%2C_education%2C_crime%3B_land_%2814769184302%29.jpg/960px-thumbnail.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/960px-Taj_Mahal_in_March_2004.jpg"
+    ],
     name: "Ram Bagh (Aram Bagh)",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -120,6 +168,12 @@ export const MONUMENTS = [
   {
     id: "red-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20191203_Naubat_Khana%2C_Red_Fort%2C_Delhi_0453_6340_DxO.jpg/960px-20191203_Naubat_Khana%2C_Red_Fort%2C_Delhi_0453_6340_DxO.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Covered_market_past_the_Lahore_gate_entrance_in_Red_Fort.jpg/960px-Covered_market_past_the_Lahore_gate_entrance_in_Red_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Diwan-e-Khas-2022.jpg/960px-Diwan-e-Khas-2022.jpg"
+    ],
     name: "Red Fort (Lal Qila)",
     city: "Delhi",
     state: "Delhi",
@@ -135,6 +189,12 @@ export const MONUMENTS = [
   {
     id: "qutub-minar",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Qutb_Minar_2022.jpg/960px-Qutb_Minar_2022.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2018_Qutub_Minar_New_Delhi.jpg/960px-2018_Qutub_Minar_New_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Details_of_the_balcony%2C_Qutub_Minar.jpg/960px-Details_of_the_balcony%2C_Qutub_Minar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kuttull_Minor%2C_Delhi._The_Qutb_Minar%2C_an_aquatint_by_Thomas_Daniell%2C_1805.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lord_ganesha_idol_in_qutub_minar_complex.jpg/960px-Lord_ganesha_idol_in_qutub_minar_complex.jpg"
+    ],
     name: "Qutub Minar",
     city: "Delhi",
     state: "Delhi",
@@ -149,6 +209,12 @@ export const MONUMENTS = [
   {
     id: "humayuns-tomb",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Humayun%27s_Tomb%2C_Delhi.jpg/960px-Humayun%27s_Tomb%2C_Delhi.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/20191205_Afsarwala_Tomb%2C_Delhi_1051_6789.jpg/960px-20191205_Afsarwala_Tomb%2C_Delhi_1051_6789.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/20191205_Grobowiec_Humajuna_w_Delhi_1054_6792.jpg/960px-20191205_Grobowiec_Humajuna_w_Delhi_1054_6792.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/20191205_Grobowiec_Humajuna_w_Delhi_1055_6794.jpg/960px-20191205_Grobowiec_Humajuna_w_Delhi_1055_6794.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Humayun%27s_Tomb%2C_Delhi_1.jpg/960px-Humayun%27s_Tomb%2C_Delhi_1.jpg"
+    ],
     name: "Humayun's Tomb",
     city: "Delhi",
     state: "Delhi",
@@ -163,6 +229,12 @@ export const MONUMENTS = [
   {
     id: "purana-qila",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Purana_Qila_01.jpg/960px-Purana_Qila_01.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Central_iwan_of_Qila-i-Kuhna_mosque%2C_Purana_Qila.jpg/960px-Central_iwan_of_Qila-i-Kuhna_mosque%2C_Purana_Qila.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gallery_-_Archaeological_Museum_-_Old_Fort_-_New_Delhi_2014-05-13_3081.JPG/960px-Gallery_-_Archaeological_Museum_-_Old_Fort_-_New_Delhi_2014-05-13_3081.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hammam_Khana_New_Delhi.jpg/960px-Hammam_Khana_New_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Humayun_gate_purana_qila.jpg/960px-Humayun_gate_purana_qila.jpg"
+    ],
     name: "Purana Qila (Old Fort)",
     city: "Delhi",
     state: "Delhi",
@@ -177,6 +249,12 @@ export const MONUMENTS = [
   {
     id: "safdarjung-tomb",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Safdarjung_Tomb%2C_New_Delhi.jpg/960px-Safdarjung_Tomb%2C_New_Delhi.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Night_view_of_Safdurjung%27s_Tomb.jpg/960px-Night_view_of_Safdurjung%27s_Tomb.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Safdarjung_Tomb%2C_New_Delhi_%2888753%29.jpg/960px-Safdarjung_Tomb%2C_New_Delhi_%2888753%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tomb_of_Nawab_Safdarjung%2C_Delhi_02.jpg/960px-Tomb_of_Nawab_Safdarjung%2C_Delhi_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tomb_of_Nawab_Safdarjung%2C_Delhi_03.jpg/960px-Tomb_of_Nawab_Safdarjung%2C_Delhi_03.jpg"
+    ],
     name: "Safdarjung's Tomb",
     city: "Delhi",
     state: "Delhi",
@@ -191,6 +269,12 @@ export const MONUMENTS = [
   {
     id: "jantar-mantar-delhi",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jantar_Mantar%2C_New_Delhi_%28Misra_Yantra%29.jpg/960px-Jantar_Mantar%2C_New_Delhi_%28Misra_Yantra%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/960px-Earth-moon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jantar_Mantar%2C_New_Delhi_%28Misra_Yantra%29.jpg/960px-Jantar_Mantar%2C_New_Delhi_%28Misra_Yantra%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jantar_Mantar%2C_New_Delhi_%28Rama_Yantra_2%29.jpg/960px-Jantar_Mantar%2C_New_Delhi_%28Rama_Yantra_2%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jantar_Mantar%2C_New_Delhi_%28Rama_Yantra_2_inside%29.jpg/960px-Jantar_Mantar%2C_New_Delhi_%28Rama_Yantra_2_inside%29.jpg"
+    ],
     name: "Jantar Mantar (Delhi)",
     city: "Delhi",
     state: "Delhi",
@@ -205,6 +289,12 @@ export const MONUMENTS = [
   {
     id: "tughlaqabad-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Tughlaqabad_Fort%2C_New_Delhi.jpg/960px-Tughlaqabad_Fort%2C_New_Delhi.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Entrance_of_the_Mausoleum_of_Ghiyath_al-Din_Tughluq.jpg/960px-Entrance_of_the_Mausoleum_of_Ghiyath_al-Din_Tughluq.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/GHIY%C4%80THU%E2%80%99D-D%C4%AAN_TUGHLUQ%E2%80%99S_TOMB_04.jpg/960px-GHIY%C4%80THU%E2%80%99D-D%C4%AAN_TUGHLUQ%E2%80%99S_TOMB_04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ghiyath_aldin_tughluq_tomb.JPG/960px-Ghiyath_aldin_tughluq_tomb.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ghiyath_aldin_tughluq_tomb_from_tughluqabad.JPG/960px-Ghiyath_aldin_tughluq_tomb_from_tughluqabad.JPG"
+    ],
     name: "Tughlaqabad Fort",
     city: "Delhi",
     state: "Delhi",
@@ -219,6 +309,12 @@ export const MONUMENTS = [
   {
     id: "siri-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/8/8c/Siri_Fort_wall_at_Panchsheel_Park.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ruins_of_Siri_Fort_wall%2C_New_Delhi%2C_India_-_20090517.jpg/960px-Ruins_of_Siri_Fort_wall%2C_New_Delhi%2C_India_-_20090517.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Siri_Fort_Sports_Complex_und_Gulmohar_Park_vom_Final_aus_gesehen.jpg/960px-Siri_Fort_Sports_Complex_und_Gulmohar_Park_vom_Final_aus_gesehen.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Siri_Fort_auditorium.JPG/960px-Siri_Fort_auditorium.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b2/Siri_Fort_wall_and_Tohfe_Wala_Gumbad_dome.jpg"
+    ],
     name: "Hauz Khas (Siri Fort & Tank)",
     city: "Delhi",
     state: "Delhi",
@@ -233,6 +329,12 @@ export const MONUMENTS = [
   {
     id: "kotla-feroz-shah",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Feroz_Shah_Kotla_mosque_2010.jpg/960px-Feroz_Shah_Kotla_mosque_2010.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Entrance_Firoz_Shah_Kotla_Fort%2C_Delhi%2C_India.jpg/960px-Entrance_Firoz_Shah_Kotla_Fort%2C_Delhi%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/42/Firoz_Shah_Kotla%2C_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Firoz_Shah_Kotla_Fort%2C_Delhi%2C_India.jpg/960px-Firoz_Shah_Kotla_Fort%2C_Delhi%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Firoz_Shah_Kotla_Front01_Delhi.jpg/960px-Firoz_Shah_Kotla_Front01_Delhi.jpg"
+    ],
     name: "Kotla Feroz Shah",
     city: "Delhi",
     state: "Delhi",
@@ -247,6 +349,12 @@ export const MONUMENTS = [
   {
     id: "lodi-garden",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sayyid_Lodi_Bada_Gumbad_Delhi.jpg/960px-Sayyid_Lodi_Bada_Gumbad_Delhi.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lodhi_Garden_Tomb_2019.jpg/960px-Lodhi_Garden_Tomb_2019.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_03.jpg/960px-PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg/960px-PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_13.jpg/960px-PXL_20231130_055916240_Sikandar_Lodhi_Tomb_Lodhi_Gardens%2C_Lodhi_Estate%2C_New_Delhi%2C_Delhi_110003_13.jpg"
+    ],
     name: "Lodi Garden",
     city: "Delhi",
     state: "Delhi",
@@ -263,6 +371,12 @@ export const MONUMENTS = [
   {
     id: "jhansi-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Jhansi_Fort.jpg/960px-Jhansi_Fort.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/b/bb/1857_jhansi_fort2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Jhansi_Fort.jpg/960px-Jhansi_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Jhansi_Fort_Hallway-1.jpg/960px-Jhansi_Fort_Hallway-1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/82/Kadak_Bijli.JPG"
+    ],
     name: "Jhansi Fort",
     city: "Jhansi",
     state: "Uttar Pradesh",
@@ -277,6 +391,12 @@ export const MONUMENTS = [
   {
     id: "rani-mahal-jhansi",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Jhansi_Fort.jpg/960px-Jhansi_Fort.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rani_Mahal%2C_a_royal_palace_in_the_city_of_Jhansi%2C_Uttar_Pradesh_18.jpg/960px-Rani_Mahal%2C_a_royal_palace_in_the_city_of_Jhansi%2C_Uttar_Pradesh_18.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rani_Mahal%2C_a_royal_palace_in_the_city_of_Jhansi%2C_Uttar_Pradesh_22.jpg/960px-Rani_Mahal%2C_a_royal_palace_in_the_city_of_Jhansi%2C_Uttar_Pradesh_22.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rani_Mahal%2C_a_royal_palace_in_the_city_of_Jhansi%2C_Uttar_Pradesh_23.jpg/960px-Rani_Mahal%2C_a_royal_palace_in_the_city_of_Jhansi%2C_Uttar_Pradesh_23.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rani_Mahal%2C_a_royal_palace_in_the_city_of_Jhansi%2C_Uttar_Pradesh_25.jpg/960px-Rani_Mahal%2C_a_royal_palace_in_the_city_of_Jhansi%2C_Uttar_Pradesh_25.jpg"
+    ],
     name: "Rani Mahal (Jhansi)",
     city: "Jhansi",
     state: "Uttar Pradesh",
@@ -293,6 +413,12 @@ export const MONUMENTS = [
   {
     id: "lucknow-residency",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Lucknow_Residency.jpg/960px-Lucknow_Residency.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Imambara_inside_the_Residency-Lucknow-Uttar_Pradesh-DSC_0001.jpg/960px-Imambara_inside_the_Residency-Lucknow-Uttar_Pradesh-DSC_0001.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Office_-_The_Residency_-_Lucknow_-_India.jpg/960px-Office_-_The_Residency_-_Lucknow_-_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Residency-Lucknow-Uttar_Pradesh-IMG_4491.jpg/960px-Residency-Lucknow-Uttar_Pradesh-IMG_4491.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Residency-Lucknow-Uttar_Pradesh-IMG_9886.jpg/960px-Residency-Lucknow-Uttar_Pradesh-IMG_9886.jpg"
+    ],
     name: "Residency (Lucknow)",
     city: "Lucknow",
     state: "Uttar Pradesh",
@@ -307,6 +433,12 @@ export const MONUMENTS = [
   {
     id: "kalinjar-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/E._view_of_the_Fort_at_Kalinjar._May_1814.jpg/960px-E._view_of_the_Fort_at_Kalinjar._May_1814.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%27Henumaan_Ka_Darwaaza%27.jpg/960px-%27Henumaan_Ka_Darwaaza%27.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/6th_century_Gajasursamharamurti_and_Parvati_bas-relief%2C_Kalinjar_Fort_027.jpg/960px-6th_century_Gajasursamharamurti_and_Parvati_bas-relief%2C_Kalinjar_Fort_027.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Architectural_details_from_temple_of_Nilkanth.jpg/960px-Architectural_details_from_temple_of_Nilkanth.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/af/Broken_sculpture_of_Kuvera_riding_on_his_vehicle%2C_near_temple_of_Nilkanth.jpg"
+    ],
     name: "Kalinjar Fort",
     city: "Banda",
     state: "Uttar Pradesh",
@@ -323,6 +455,12 @@ export const MONUMENTS = [
   {
     id: "sarnath",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/960px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/1_Sarnath_Temple_Buddhism_Le_Mulagandhakuti_Vih%C4%81ra_S%C3%A2rn%C3%A2th_Varanasi_India_2013.jpg/960px-1_Sarnath_Temple_Buddhism_Le_Mulagandhakuti_Vih%C4%81ra_S%C3%A2rn%C3%A2th_Varanasi_India_2013.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2015.207530.Archaeological-Survey_0099.jpg/960px-2015.207530.Archaeological-Survey_0099.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_Buddhist_temple_at_Sarnath.jpg/960px-A_Buddhist_temple_at_Sarnath.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/960px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg"
+    ],
     name: "Excavated Remains at Sarnath",
     city: "Sarnath",
     state: "Uttar Pradesh",
@@ -337,6 +475,12 @@ export const MONUMENTS = [
   {
     id: "man-singh-observatory",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Digansa_Yantra.JPG/960px-Digansa_Yantra.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Digansa_Yantra.JPG/960px-Digansa_Yantra.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/960px-Earth-moon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/960px-Solar_system.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/960px-Crab_Nebula.jpg"
+    ],
     name: "Man Mandir (Observatory)",
     city: "Varanasi",
     state: "Uttar Pradesh",
@@ -351,6 +495,12 @@ export const MONUMENTS = [
   {
     id: "sravasti",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Shobhnath_temple_%285703067291%29_%28cropped%29.jpg/960px-Shobhnath_temple_%285703067291%29_%28cropped%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1st_century_Sravasti_Bodhisattva%2C_Epigraphical_Hybrid_Sanskrit%2C_Saheth-Maheth%2C_Uttar_Pradesh_India.jpg/960px-1st_century_Sravasti_Bodhisattva%2C_Epigraphical_Hybrid_Sanskrit%2C_Saheth-Maheth%2C_Uttar_Pradesh_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Anandabodhi.jpg/960px-Anandabodhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Anandabodhi2.jpg/960px-Anandabodhi2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Anathapindikastupa1.jpg/960px-Anathapindikastupa1.jpg"
+    ],
     name: "Monuments at Sravasti (Sahet-Mahet)",
     city: "Sravasti",
     state: "Uttar Pradesh",
@@ -367,6 +517,12 @@ export const MONUMENTS = [
   {
     id: "nalanda",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nalanda_university_ruins.jpg/960px-Nalanda_university_ruins.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Monastery_5_-_Nalanda_Mahavihara_%281%29.jpg/960px-Monastery_5_-_Nalanda_Mahavihara_%281%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Temple_12_-_Nalanda_Mahavihara_%2817%29.jpg/960px-Temple_12_-_Nalanda_Mahavihara_%2817%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Temple_12_-_Nalanda_Mahavihara_%2821%29.jpg/960px-Temple_12_-_Nalanda_Mahavihara_%2821%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Temple_12_-_Nalanda_Mahavihara_%2825%29.jpg/960px-Temple_12_-_Nalanda_Mahavihara_%2825%29.jpg"
+    ],
     name: "Nalanda Mahavihara",
     city: "Nalanda",
     state: "Bihar",
@@ -381,6 +537,12 @@ export const MONUMENTS = [
   {
     id: "rajgir",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Shanti_Stupa_at_Rajgir_%28cropped%29.jpg/960px-Shanti_Stupa_at_Rajgir_%28cropped%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cyclopian_wall%2C_Rajgir._%285457385482%29_%28cropped%29.jpg/960px-Cyclopian_wall%2C_Rajgir._%285457385482%29_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ghora_Katora_Lake_in_Rajgir_Bihar_%28cropped%29.jpg/960px-Ghora_Katora_Lake_in_Rajgir_Bihar_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/New_Excavated_Stupa_-_Rajgir_-_1.jpg/960px-New_Excavated_Stupa_-_Rajgir_-_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Naulakha_Mandir.jpg/960px-Naulakha_Mandir.jpg"
+    ],
     name: "Rajgir",
     city: "Rajgir",
     state: "Bihar",
@@ -397,6 +559,12 @@ export const MONUMENTS = [
   {
     id: "sanchi-stupa",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sanchi_Stupa_from_South%2C_Madhya_Pradesh.jpg/960px-Sanchi_Stupa_from_South%2C_Madhya_Pradesh.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Buddha_Statue%2C_Sanchi_01.jpg/960px-Buddha_Statue%2C_Sanchi_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Great_Budhha_Sanchi_Stupa.jpg/960px-Great_Budhha_Sanchi_Stupa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/North_Torana%2C_Sanchi_02.jpg/960px-North_Torana%2C_Sanchi_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Sanchi_Stupa_TORANAS_Entry_Gate3.jpg/960px-Sanchi_Stupa_TORANAS_Entry_Gate3.jpg"
+    ],
     name: "Buddhist Monuments at Sanchi",
     city: "Sanchi",
     state: "Madhya Pradesh",
@@ -411,6 +579,12 @@ export const MONUMENTS = [
   {
     id: "khajuraho",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/1_Khajuraho.jpg/960px-1_Khajuraho.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/1_Khajuraho.jpg/960px-1_Khajuraho.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/71/2_Erotic_Kama_statues_of_Khajuraho_Hindu_Temple_de_Lakshmana_Khajur%C3%A2ho_India_2013.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/A_Khajuraho_Temple_ceiling_design.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/A_ruin%2C_pillars_at_Khajuraho%2C_India.jpg/960px-A_ruin%2C_pillars_at_Khajuraho%2C_India.jpg"
+    ],
     name: "Khajuraho Temples (Western Group)",
     city: "Khajuraho",
     state: "Madhya Pradesh",
@@ -425,6 +599,12 @@ export const MONUMENTS = [
   {
     id: "bhimbetka",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rock_Shelter_8%2C_Bhimbetka_02.jpg/960px-Rock_Shelter_8%2C_Bhimbetka_02.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/1_of_the_rock_shelter_caves_at_Bhimbetka%2C_Madhya_Pradesh.jpg/960px-1_of_the_rock_shelter_caves_at_Bhimbetka%2C_Madhya_Pradesh.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/94/Bhimbetka.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bhimbetka_Cave_Paintings.jpg/960px-Bhimbetka_Cave_Paintings.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bhimbetka_rock_paintng1.jpg"
+    ],
     name: "Rock Shelters of Bhimbetka",
     city: "Raisen",
     state: "Madhya Pradesh",
@@ -439,6 +619,12 @@ export const MONUMENTS = [
   {
     id: "gwalior-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gwalior_Fort_front.jpg/960px-Gwalior_Fort_front.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/246_Gwalior.jpg/960px-246_Gwalior.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/247_Gwalior.jpg/960px-247_Gwalior.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/A_View_of_the_Fortress_of_Gwalior%2C_1780.jpg/960px-A_View_of_the_Fortress_of_Gwalior%2C_1780.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/b/b3/Eastern_face_of_Inner_Court_yard_of_Man_Mandir%2C_Gwalior_Fort..jpg"
+    ],
     name: "Gwalior Fort",
     city: "Gwalior",
     state: "Madhya Pradesh",
@@ -453,6 +639,12 @@ export const MONUMENTS = [
   {
     id: "mandu",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JahazMahal.jpg/960px-JahazMahal.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Asharfi_Mahal-Mandu-Madhya_Pradesh-DSC001.jpg/960px-Asharfi_Mahal-Mandu-Madhya_Pradesh-DSC001.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Asharfi_Mahal-Mandu-Madhya_Pradesh-DSC003.jpg/960px-Asharfi_Mahal-Mandu-Madhya_Pradesh-DSC003.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Baz_Bahadur%27s_Palace_09.jpg/960px-Baz_Bahadur%27s_Palace_09.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dai_ki_Mahal.jpg/960px-Dai_ki_Mahal.jpg"
+    ],
     name: "Group of Monuments at Mandu",
     city: "Mandu",
     state: "Madhya Pradesh",
@@ -467,6 +659,12 @@ export const MONUMENTS = [
   {
     id: "orchha",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chaturbhuj_Temple%2C_Orchha.jpg/960px-Chaturbhuj_Temple%2C_Orchha.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Chaturbhuj_Temple%2C_Orchha.jpg/960px-Chaturbhuj_Temple%2C_Orchha.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4f/Courtyard_inside_Raj_Mahal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a8/Facade_of_Jahangir_Mahal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lakshmi_Temple%2C_Orchha.jpg/960px-Lakshmi_Temple%2C_Orchha.jpg"
+    ],
     name: "Orchha Fort Complex",
     city: "Orchha",
     state: "Madhya Pradesh",
@@ -481,6 +679,12 @@ export const MONUMENTS = [
   {
     id: "shahi-quila-burhanpur",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dargah-e-Hakimi_%28Burhanpur%29%2C_February_2015.jpg/960px-Dargah-e-Hakimi_%28Burhanpur%29%2C_February_2015.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aahukhana_burhanpur_%28Madhya_Pradesh%2C_India%29.JPG/960px-Aahukhana_burhanpur_%28Madhya_Pradesh%2C_India%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Annual_Report_of_the_Archaeological_Survey_of_India_1913-14_Plate_VIa_%28page_74_crop%29.jpg/960px-Annual_Report_of_the_Archaeological_Survey_of_India_1913-14_Plate_VIa_%28page_74_crop%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Big_Tasbeeh_of_old_Mogul_era_kept_in_Jama_masjid.jpg/960px-Big_Tasbeeh_of_old_Mogul_era_kept_in_Jama_masjid.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dargaah-e-Hakimi_in_Burhanpur_-_panoramio.jpg/960px-Dargaah-e-Hakimi_in_Burhanpur_-_panoramio.jpg"
+    ],
     name: "Shahi Quila, Burhanpur",
     city: "Burhanpur",
     state: "Madhya Pradesh",
@@ -497,6 +701,12 @@ export const MONUMENTS = [
   {
     id: "elephanta-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Elephanta_Caves_Trimurti.jpg/960px-Elephanta_Caves_Trimurti.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Aquatint_of_the_Stone_Elephant.jpg/960px-Aquatint_of_the_Stone_Elephant.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ardhanari%40_Elephanta_Caves.jpg/960px-Ardhanari%40_Elephanta_Caves.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Brahma_statue_%286th_century_CE%29.jpg/960px-Brahma_statue_%286th_century_CE%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cave_of_Elephants_1905.jpg"
+    ],
     name: "Elephanta Caves",
     city: "Mumbai",
     state: "Maharashtra",
@@ -512,6 +722,12 @@ export const MONUMENTS = [
   {
     id: "ajanta-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/960px-Ajanta_%2863%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%2APlate_3%2A_%3D%3D_Ajunta--_Interior_of_Chaitya_Cave%2C_No._10.jpg/960px-%2APlate_3%2A_%3D%3D_Ajunta--_Interior_of_Chaitya_Cave%2C_No._10.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/003_Cave_16%2C_Main_Shrine_%2834298723855%29.jpg/960px-003_Cave_16%2C_Main_Shrine_%2834298723855%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/008_Cave_1%2C_In_the_Forest_%2834239644366%29.jpg/960px-008_Cave_1%2C_In_the_Forest_%2834239644366%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/015_Cave_1%2C_Main_Shrine_and_Paintings_%2833470082003%29.jpg/960px-015_Cave_1%2C_Main_Shrine_and_Paintings_%2833470082003%29.jpg"
+    ],
     name: "Ajanta Caves",
     city: "Aurangabad",
     state: "Maharashtra",
@@ -526,6 +742,12 @@ export const MONUMENTS = [
   {
     id: "ellora-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ellora_Caves_entrance.jpg/960px-Ellora_Caves_entrance.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d8/%2AThe_Sutar-ki-Jhonpri_-Visvakarma-_Cave%2C_Ellora%3B_a_photo_by_Lala_Deen_Dayal%2C_1880%27s%2A_%28BL%29.1880.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/1_Dancing_Shiva%2C_Cave_21_at_Ellora.jpg/960px-1_Dancing_Shiva%2C_Cave_21_at_Ellora.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/4_Painting_Jain_Ellora_Caves.jpg/960px-4_Painting_Jain_Ellora_Caves.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Amriteshwar_temple.jpg/960px-Amriteshwar_temple.jpg"
+    ],
     name: "Ellora Caves",
     city: "Aurangabad",
     state: "Maharashtra",
@@ -540,6 +762,12 @@ export const MONUMENTS = [
   {
     id: "bibi-ka-maqbara",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Tomb_of_Dilras_Banu_Begum.jpg/960px-The_Tomb_of_Dilras_Banu_Begum.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BIBI_KA_MAQBARA_%28TOMB_OF_THE_LADY%29.jpg/960px-BIBI_KA_MAQBARA_%28TOMB_OF_THE_LADY%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BIBI_KA_MAQBARA_%28TOMB_OF_THE_LADY%29_9.jpg/960px-BIBI_KA_MAQBARA_%28TOMB_OF_THE_LADY%29_9.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bibi_Ka_Maqbara%2C_Aurangabad%2C_Maharashtra-DSC002.jpg/960px-Bibi_Ka_Maqbara%2C_Aurangabad%2C_Maharashtra-DSC002.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bibi_Ka_Maqbara-Aurangabad-Dr._Murali_Mohan_Gurram_%285%29.jpg/960px-Bibi_Ka_Maqbara-Aurangabad-Dr._Murali_Mohan_Gurram_%285%29.jpg"
+    ],
     name: "Bibi ka Maqbara",
     city: "Aurangabad",
     state: "Maharashtra",
@@ -554,6 +782,12 @@ export const MONUMENTS = [
   {
     id: "daulatabad-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Daulatabad_Fort_a_view.JPG/960px-Daulatabad_Fort_a_view.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Aurangabad_-_Daulatabad_Fort_%2830%29.JPG/960px-Aurangabad_-_Daulatabad_Fort_%2830%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Aurangabad_-_Daulatabad_Fort_%2869%29.JPG/960px-Aurangabad_-_Daulatabad_Fort_%2869%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Aurangabad_-_Daulatabad_Fort_%2875%29.JPG/960px-Aurangabad_-_Daulatabad_Fort_%2875%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aurangabad_-_Daulatabad_Fort_%2895%29.JPG/960px-Aurangabad_-_Daulatabad_Fort_%2895%29.JPG"
+    ],
     name: "Daulatabad Fort",
     city: "Daulatabad",
     state: "Maharashtra",
@@ -568,6 +802,12 @@ export const MONUMENTS = [
   {
     id: "aurangabad-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1_Hinayana_style_Aurangabad_Buddhist_Cave_with_stupa.jpg/960px-1_Hinayana_style_Aurangabad_Buddhist_Cave_with_stupa.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/1_Aurangabad_Buddhist_Caves.jpg/960px-1_Aurangabad_Buddhist_Caves.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/1_Hinayana_style_Aurangabad_Buddhist_Cave_with_stupa.jpg/960px-1_Hinayana_style_Aurangabad_Buddhist_Cave_with_stupa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/1_dancing_goddess_with_other_mothers_at_Aurangabad_Buddhist_Caves.jpg/960px-1_dancing_goddess_with_other_mothers_at_Aurangabad_Buddhist_Caves.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2_Vajrayana_mother_goddesses_at_Aurangabad_Buddhist_Caves.jpg/960px-2_Vajrayana_mother_goddesses_at_Aurangabad_Buddhist_Caves.jpg"
+    ],
     name: "Aurangabad Caves",
     city: "Aurangabad",
     state: "Maharashtra",
@@ -582,6 +822,12 @@ export const MONUMENTS = [
   {
     id: "pandav-leni",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/010_Cave_3%2C_Exterior_%2833156264563%29.jpg/960px-010_Cave_3%2C_Exterior_%2833156264563%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/028_Caves_6-9_%2833928459836%29.jpg/960px-028_Caves_6-9_%2833928459836%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Buddhist_monks_at_the_Pandavleni_Caves_near_Nashik_city.jpg/960px-Buddhist_monks_at_the_Pandavleni_Caves_near_Nashik_city.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandavleni-Phalke_Smarak_%2830%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Pandavleni-Phalke_Smarak_%2831%29.jpg"
+    ],
     name: "Pandav Leni Caves (Nashik)",
     city: "Nashik",
     state: "Maharashtra",
@@ -596,6 +842,12 @@ export const MONUMENTS = [
   {
     id: "kanheri-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kanheri_Caves_prayer_hall.JPG/960px-Kanheri_Caves_prayer_hall.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Buddha_in_kanheri_caves.jpg/960px-Buddha_in_kanheri_caves.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cave_1_interior.jpg/960px-Cave_1_interior.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cave_1_interior_wall.jpg/960px-Cave_1_interior_wall.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Caves%2C_exteriors%2C_steps%2C_pathways_at_Kanheri_09.jpg/960px-Caves%2C_exteriors%2C_steps%2C_pathways_at_Kanheri_09.jpg"
+    ],
     name: "Kanheri Caves",
     city: "Mumbai",
     state: "Maharashtra",
@@ -611,6 +863,12 @@ export const MONUMENTS = [
   {
     id: "lenyadri-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lenyadri.jpg/960px-Lenyadri.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Amriteshwar_temple.jpg/960px-Amriteshwar_temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ganesha_Basohli_miniature_circa_1730_Dubost_p73.jpg/960px-Ganesha_Basohli_miniature_circa_1730_Dubost_p73.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jejuri_gadkot.jpg/960px-Jejuri_gadkot.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lenyadri.jpg/960px-Lenyadri.jpg"
+    ],
     name: "Lenyadri Caves",
     city: "Junnar",
     state: "Maharashtra",
@@ -627,6 +885,12 @@ export const MONUMENTS = [
   {
     id: "hampi",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/960px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/15th-16th_century_ruins_of_market_and_Vaishnavism_Achyutaraya_Tiruvengalanatha_temple%2C_Hampi_Hindu_monuments_Karnataka_3.jpg/960px-15th-16th_century_ruins_of_market_and_Vaishnavism_Achyutaraya_Tiruvengalanatha_temple%2C_Hampi_Hindu_monuments_Karnataka_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/15th-16th_century_ruins_of_market_and_Vaishnavism_Vitthala_temple%2C_Hampi_Hindu_monuments_Karnataka.jpg/960px-15th-16th_century_ruins_of_market_and_Vaishnavism_Vitthala_temple%2C_Hampi_Hindu_monuments_Karnataka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/15th_century_aqua_duct_to_Mahanavami_platform_Pushkarani_step_well%2C_Hampi_Hindu_monuments_Karnataka_3.jpg/960px-15th_century_aqua_duct_to_Mahanavami_platform_Pushkarani_step_well%2C_Hampi_Hindu_monuments_Karnataka_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/1_Frescoe_at_Virupaksha_temple%2C_Hampi%2C_Karnataka%2C.jpg/960px-1_Frescoe_at_Virupaksha_temple%2C_Hampi%2C_Karnataka%2C.jpg"
+    ],
     name: "Group of Monuments at Hampi",
     city: "Hampi",
     state: "Karnataka",
@@ -641,6 +905,12 @@ export const MONUMENTS = [
   {
     id: "pattadakal",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pattadakal_000.JPG/960px-Pattadakal_000.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/7th_-_8th_century_Sangameswara_temple%2C_Pattadakal_monuments_Karnataka_3.jpg/960px-7th_-_8th_century_Sangameswara_temple%2C_Pattadakal_monuments_Karnataka_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/7th_-_8th_century_Vishna_avatar_Varaha_relief_at_the_Sangameswara_Shaivism_temple%2C_Pattadakal_Hindu_monuments_Karnataka.jpg/960px-7th_-_8th_century_Vishna_avatar_Varaha_relief_at_the_Sangameswara_Shaivism_temple%2C_Pattadakal_Hindu_monuments_Karnataka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/7th_century_Ardhanarishvara_%28left_half_Shiva%2C_right_half_Parvati%29_at_the_Kadasiddheswara_Shaivism_temple%2C_Pattadakal_monuments_Karnataka.jpg/960px-7th_century_Ardhanarishvara_%28left_half_Shiva%2C_right_half_Parvati%29_at_the_Kadasiddheswara_Shaivism_temple%2C_Pattadakal_monuments_Karnataka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/8th_century_Kannada_inscription_on_victory_pillar_at_Pattadakal.jpg/960px-8th_century_Kannada_inscription_on_victory_pillar_at_Pattadakal.jpg"
+    ],
     name: "Group of Monuments at Pattadakal",
     city: "Pattadakal",
     state: "Karnataka",
@@ -655,6 +925,12 @@ export const MONUMENTS = [
   {
     id: "aihole",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/8th_century_Durga_temple_exterior_view%2C_Aihole_Hindu_temples_and_monuments_3.jpg/960px-8th_century_Durga_temple_exterior_view%2C_Aihole_Hindu_temples_and_monuments_3.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/6th_century_Ladkhan_temple%2C_Nandi_watching_Shiva_Linga%2C_Aihole_Hindu_monuments_Karnataka.jpg/960px-6th_century_Ladkhan_temple%2C_Nandi_watching_Shiva_Linga%2C_Aihole_Hindu_monuments_Karnataka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/6th_century_Ravanaphadi_cave_temple%2C_Ardhanarishvara_%28half_Shiva%2C_half_Parvati%29%2C_Aihole_Hindu_monuments_Karnataka.jpg/960px-6th_century_Ravanaphadi_cave_temple%2C_Ardhanarishvara_%28half_Shiva%2C_half_Parvati%29%2C_Aihole_Hindu_monuments_Karnataka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/6th_century_Ravanaphadi_cave_temple_ceiling_Vaishnavism_art%2C_Vishnu_and_Lakshmi_flying_on_Garuda%2C_Aihole_Hindu_monuments_Karnataka.jpg/960px-6th_century_Ravanaphadi_cave_temple_ceiling_Vaishnavism_art%2C_Vishnu_and_Lakshmi_flying_on_Garuda%2C_Aihole_Hindu_monuments_Karnataka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/7th_-_8th_century_Huchappaya_matha_temple%2C_amorous_couples_in_mithuna_kama_scenes%2C_Aihole_Hindu_monuments_3.jpg/960px-7th_-_8th_century_Huchappaya_matha_temple%2C_amorous_couples_in_mithuna_kama_scenes%2C_Aihole_Hindu_monuments_3.jpg"
+    ],
     name: "Durga Temple Complex, Aihole",
     city: "Aihole",
     state: "Karnataka",
@@ -669,6 +945,12 @@ export const MONUMENTS = [
   {
     id: "badami-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vishnu_image_inside_cave_number_3_in_Badami.jpg/960px-Vishnu_image_inside_cave_number_3_in_Badami.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/6th_-_7th_century_Badami_cave_temples_layout_exterior_annotated.jpg/960px-6th_-_7th_century_Badami_cave_temples_layout_exterior_annotated.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/6th_century_Kannada_inscription_in_cave_temple_number_3_at_Badami.jpg/960px-6th_century_Kannada_inscription_in_cave_temple_number_3_at_Badami.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/6th_century_Vishnu_lifting_a_collapsing_woman_on_pillar_top_looking_below_in_Cave_3%2C_Badami_Hindu_cave_temple_Karnataka_1.jpg/960px-6th_century_Vishnu_lifting_a_collapsing_woman_on_pillar_top_looking_below_in_Cave_3%2C_Badami_Hindu_cave_temple_Karnataka_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/6th_century_amorous_couple_on_pillar_top_looking_below_in_Cave_3%2C_Badami_Hindu_cave_temple_Karnataka_1.jpg/960px-6th_century_amorous_couple_on_pillar_top_looking_below_in_Cave_3%2C_Badami_Hindu_cave_temple_Karnataka_1.jpg"
+    ],
     name: "Badami Cave Temples",
     city: "Badami",
     state: "Karnataka",
@@ -685,6 +967,12 @@ export const MONUMENTS = [
   {
     id: "hoysalesvara-halebid",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/HoysaleshwaraTempleHalebid.jpg/960px-HoysaleshwaraTempleHalebid.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/1150_CE_Hoysaleswara_temple_Halebidu_Karnataka%2C_Makara_mythical_animal.jpg/960px-1150_CE_Hoysaleswara_temple_Halebidu_Karnataka%2C_Makara_mythical_animal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/12th-century_Brahma_and_Vishnu_at_Shaivism_Hindu_temple_Hoysaleswara_arts_Halebidu_Karnataka_India.jpg/960px-12th-century_Brahma_and_Vishnu_at_Shaivism_Hindu_temple_Hoysaleswara_arts_Halebidu_Karnataka_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/12th-century_Vishnu_and_Shiva_at_Shaivism_Hindu_temple_Hoysaleswara_arts_Halebidu_Karnataka_India.jpg/960px-12th-century_Vishnu_and_Shiva_at_Shaivism_Hindu_temple_Hoysaleswara_arts_Halebidu_Karnataka_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hoysaleshwara_temple_in_Monsoon.JPG/960px-Hoysaleshwara_temple_in_Monsoon.JPG"
+    ],
     name: "Hoysalesvara Temple, Halebid",
     city: "Halebid",
     state: "Karnataka",
@@ -699,6 +987,12 @@ export const MONUMENTS = [
   {
     id: "chennakeshava-belur",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg/960px-The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/12th-century_sculpture_at_Belur_Hindu_temple_inner_mandala%2C_woman_tending_her_hair_2.jpg/960px-12th-century_sculpture_at_Belur_Hindu_temple_inner_mandala%2C_woman_tending_her_hair_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/12th_century_Belur_Chenna_Kesava_temples_layout_ground_plan%2C_Karnataka_India.jpg/960px-12th_century_Belur_Chenna_Kesava_temples_layout_ground_plan%2C_Karnataka_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/A_Close_up_of_decorative_moulding_frieze_on_outer_wall_of_mandapa%2C_Chennakeshava_Temple%2C_Belur%2C_Karnataka.jpg/960px-A_Close_up_of_decorative_moulding_frieze_on_outer_wall_of_mandapa%2C_Chennakeshava_Temple%2C_Belur%2C_Karnataka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Belur4.jpg/960px-Belur4.jpg"
+    ],
     name: "Chennakeshava Temple, Belur",
     city: "Belur",
     state: "Karnataka",
@@ -713,6 +1007,12 @@ export const MONUMENTS = [
   {
     id: "gol-gumbaz",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gol_Gumbaj2.JPG/960px-Gol_Gumbaj2.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/A_building_beside_Gol_Gumbaz.jpg/960px-A_building_beside_Gol_Gumbaz.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/A_view_of_Whispering_Gallery_Gol_Gumbaz.JPG/960px-A_view_of_Whispering_Gallery_Gol_Gumbaz.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Adil_Shah%27s_Tomb%2C_Inside_Gol_Gumbaz%2C_Bijapur%2C_Karnataka.jpg/960px-Adil_Shah%27s_Tomb%2C_Inside_Gol_Gumbaz%2C_Bijapur%2C_Karnataka.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Art_on_the_Walls_of_Gol_Gumbaz.JPG/960px-Art_on_the_Walls_of_Gol_Gumbaz.JPG"
+    ],
     name: "Gol Gumbaz",
     city: "Bijapur",
     state: "Karnataka",
@@ -727,6 +1027,12 @@ export const MONUMENTS = [
   {
     id: "ibrahim-rauza",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ibrahim_Roza.jpg/960px-Ibrahim_Roza.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bijapur_Ibrahim_Rauza_mosque.jpg/960px-Bijapur_Ibrahim_Rauza_mosque.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ibrahim_Rauza_-_Mosque.jpg/960px-Ibrahim_Rauza_-_Mosque.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ibrahim_Rauza_Plan.jpg/960px-Ibrahim_Rauza_Plan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ibrahim_Rauza_Tomb_-_2.jpg/960px-Ibrahim_Rauza_Tomb_-_2.jpg"
+    ],
     name: "Ibrahim Rauza",
     city: "Bijapur",
     state: "Karnataka",
@@ -743,6 +1049,12 @@ export const MONUMENTS = [
   {
     id: "golconda-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Golconda_Fort_Hyderabad.jpg/960px-Golconda_Fort_Hyderabad.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Ceiling_of_Echo_Dome%2C_Golconda_Fort_%28Oct_2025%29.jpg/960px-Ceiling_of_Echo_Dome%2C_Golconda_Fort_%28Oct_2025%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Golconda_Fort%2C_Hyderabad_%2880461%29.jpg/960px-Golconda_Fort%2C_Hyderabad_%2880461%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Golconda_Fort%2C_Hyderabad_%28Oct_2025%29_-_3.jpg/960px-Golconda_Fort%2C_Hyderabad_%28Oct_2025%29_-_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golconda_Fort%2C_Hyderabad_%28Oct_2025%29_-_4.jpg/960px-Golconda_Fort%2C_Hyderabad_%28Oct_2025%29_-_4.jpg"
+    ],
     name: "Golconda Fort",
     city: "Hyderabad",
     state: "Telangana",
@@ -757,6 +1069,12 @@ export const MONUMENTS = [
   {
     id: "charminar",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charminar_Hyderabad_1.jpg/960px-Charminar_Hyderabad_1.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_typical_charminar_evening.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Char_Kaman.jpg/960px-Char_Kaman.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Charminar_-_May_2023.jpg/960px-Charminar_-_May_2023.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charminar_Hyderabad_1.jpg/960px-Charminar_Hyderabad_1.jpg"
+    ],
     name: "Charminar",
     city: "Hyderabad",
     state: "Telangana",
@@ -771,6 +1089,12 @@ export const MONUMENTS = [
   {
     id: "nagarjunakonda",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Buddhist_site_3rd_century_AD.jpg/960px-Buddhist_site_3rd_century_AD.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Buddhist_site_3rd_century_AD.jpg/960px-Buddhist_site_3rd_century_AD.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Division_of_Buddha_Relics_-_Limestone_-_Circa_3rd-4th_Century_AD_-_Nagarjunakonda_-_Archaeological_Museum_-_Nagarjunakonda_-_Andhra_Pradesh_-_Indian_Buddhist_Art_-_Exhibition_-_Indian_Museum_-_Kolkata_2012-12-21_2355.JPG/960px-thumbnail.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/MET_DT5217_%28cropped%29.jpg/960px-MET_DT5217_%28cropped%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d1/Nagarjunakonda_Ayaka_pillar_inscription_of_the_time_of_Vira-Purushadatta.jpg"
+    ],
     name: "Nagarjunakonda",
     city: "Nagarjuna Sagar",
     state: "Andhra Pradesh",
@@ -788,6 +1112,12 @@ export const MONUMENTS = [
   {
     id: "amaravati-stupa",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Amaravathi_stupa.jpg/960px-Amaravathi_stupa.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Discription_plate%2C_Amaravati_stupa._at_Amaravati._A_%2813%29.JPG/960px-Discription_plate%2C_Amaravati_stupa._at_Amaravati._A_%2813%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Discription_plate%2C_Amaravati_stupa._at_Amaravati._A_%2815%29.JPG/960px-Discription_plate%2C_Amaravati_stupa._at_Amaravati._A_%2815%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Partial_Side_View_of_Maha_Stupa_at_Amaravati.jpg/960px-Partial_Side_View_of_Maha_Stupa_at_Amaravati.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Remnants_of_Stupa_at_amaravati_01.jpg/960px-Remnants_of_Stupa_at_amaravati_01.jpg"
+    ],
     name: "Buddhist Ruins at Amaravati",
     city: "Amaravati",
     state: "Andhra Pradesh",
@@ -802,6 +1132,12 @@ export const MONUMENTS = [
   {
     id: "undavalli-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Undavalli_Caves%2C_Vijayawada%2C_Guntur%2C_Andhra_Pradesh%2C_India_%282018%29_1.jpg/960px-Undavalli_Caves%2C_Vijayawada%2C_Guntur%2C_Andhra_Pradesh%2C_India_%282018%29_1.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fa/Chebrolu_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gollalamamidada_temple_gopuram_Eastgodavari.JPG/960px-Gollalamamidada_temple_gopuram_Eastgodavari.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kanakadurga_Temple_Vimana_Gopuram.JPG/960px-Kanakadurga_Temple_Vimana_Gopuram.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Padmanabaswami_inside_Undavalli_Caves.jpg/960px-Padmanabaswami_inside_Undavalli_Caves.jpg"
+    ],
     name: "Undavalli Caves",
     city: "Undavalli",
     state: "Andhra Pradesh",
@@ -816,6 +1152,12 @@ export const MONUMENTS = [
   {
     id: "guntupalli-caves",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Entrance_of_Rock-cut_temple.JPG/960px-Entrance_of_Rock-cut_temple.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Brick_Chaitya.JPG/960px-Brick_Chaitya.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Entrance_of_Rock-cut_temple.JPG/960px-Entrance_of_Rock-cut_temple.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Guntupalli_Buddhist_caves.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Guntupalli_cave.jpg/960px-Guntupalli_cave.jpg"
+    ],
     name: "Buddhist Monuments at Guntupalli",
     city: "Eluru",
     state: "Andhra Pradesh",
@@ -832,6 +1174,12 @@ export const MONUMENTS = [
   {
     id: "mahabalipuram",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg/960px-Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mamallapuram%2C_Mahabalipuram%2C_Shore_Temple%2C_India.jpg/960px-Mamallapuram%2C_Mahabalipuram%2C_Shore_Temple%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mamallapuram%2C_Mahabalipuram%2C_Shore_Temple%2C_Interior%2C_India.jpg/960px-Mamallapuram%2C_Mahabalipuram%2C_Shore_Temple%2C_Interior%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mamallapuram%2C_Mahabalipuram%2C_Shore_Temple%2C_Pallava_dynasty%2C_India.jpg/960px-Mamallapuram%2C_Mahabalipuram%2C_Shore_Temple%2C_Pallava_dynasty%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mamallapuram%2C_Mahabalipuram%2C_The_Shore_Temple%2C_India.jpg/960px-Mamallapuram%2C_Mahabalipuram%2C_The_Shore_Temple%2C_India.jpg"
+    ],
     name: "Shore Temple & Group of Monuments, Mahabalipuram",
     city: "Mahabalipuram",
     state: "Tamil Nadu",
@@ -846,6 +1194,12 @@ export const MONUMENTS = [
   {
     id: "chola-temples-thanjavur",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Brihadeeswarar_Temple%2C_Thanjavur%2C_Tamil_Nadu.jpg/960px-Brihadeeswarar_Temple%2C_Thanjavur%2C_Tamil_Nadu.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Brihadeeswarar_Temple_02.jpg/960px-Brihadeeswarar_Temple_02.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brihadeeswarar_Temple_03.jpg/960px-Brihadeeswarar_Temple_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Brihadeeswarar_Temple_04.jpg/960px-Brihadeeswarar_Temple_04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Brihadeeswarar_Temple_3406.jpg/960px-Brihadeeswarar_Temple_3406.jpg"
+    ],
     name: "Brihadisvara Temple, Thanjavur",
     city: "Thanjavur",
     state: "Tamil Nadu",
@@ -860,6 +1214,12 @@ export const MONUMENTS = [
   {
     id: "gangaikondacholapuram",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GangaiKonda_Cholapuram%28Front_View%29.JPG/960px-GangaiKonda_Cholapuram%28Front_View%29.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/c/c0/%2823%29_Half_Male_Half_Female_Androgynous_Shiva_Gangaikonda_Cholapuram_Hindu_Temple_Pragatishwara_Tamil_Nadu_India_2014.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GangaiKonda_Cholapuram%28Front_View%29.JPG/960px-GangaiKonda_Cholapuram%28Front_View%29.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gangaikonda_Cholapuram_Temple_Entrance.JPG/960px-Gangaikonda_Cholapuram_Temple_Entrance.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Maligai-Medu.jpg/960px-Maligai-Medu.jpg"
+    ],
     name: "Gangaikondacholapuram Temple",
     city: "Gangaikondacholapuram",
     state: "Tamil Nadu",
@@ -874,6 +1234,12 @@ export const MONUMENTS = [
   {
     id: "airavatesvara-darasuram",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/A_different_view_of_Airavatesvara_Temple.jpg/960px-A_different_view_of_Airavatesvara_Temple.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%22An_inscriptions_in_Airavatesvara_Temple%22.JPG/960px-%22An_inscriptions_in_Airavatesvara_Temple%22.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%22Architecture_of_World_Heritage_Monument_Airavatesvara_Temple%22.JPG/960px-%22Architecture_of_World_Heritage_Monument_Airavatesvara_Temple%22.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%22Entrance_of_Airavatesvara_Temple_1%22.JPG/960px-%22Entrance_of_Airavatesvara_Temple_1%22.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/12th_century_Airavatesvara_Temple_at_Darasuram%2C_dedicated_to_Shiva%2C_built_by_the_Chola_king_Rajaraja_II_Tamil_Nadu_India_%28114%29.jpg/960px-12th_century_Airavatesvara_Temple_at_Darasuram%2C_dedicated_to_Shiva%2C_built_by_the_Chola_king_Rajaraja_II_Tamil_Nadu_India_%28114%29.jpg"
+    ],
     name: "Airavatesvara Temple, Darasuram",
     city: "Kumbakonam",
     state: "Tamil Nadu",
@@ -888,6 +1254,12 @@ export const MONUMENTS = [
   {
     id: "vellore-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vellorefort.jpg/960px-Vellorefort.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%22Sri_Jalagandeeswarar_Temple%2C_Feb_2012.jpg/960px-%22Sri_Jalagandeeswarar_Temple%2C_Feb_2012.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/39Vellore_Fort.jpg/960px-39Vellore_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Clear_picture_of_moat_at_rayavellore_fort.JPG/960px-Clear_picture_of_moat_at_rayavellore_fort.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/European_Burying-Ground_at_Vellore_%28MacLeod%2C_p.142%2C_1871%29_-_Copy.jpg/960px-European_Burying-Ground_at_Vellore_%28MacLeod%2C_p.142%2C_1871%29_-_Copy.jpg"
+    ],
     name: "Vellore Fort",
     city: "Vellore",
     state: "Tamil Nadu",
@@ -902,6 +1274,12 @@ export const MONUMENTS = [
   {
     id: "gingee-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gingee_Fort_Hill_view_from_road.jpg/960px-Gingee_Fort_Hill_view_from_road.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Cannon_gingee_fort.jpg/960px-Cannon_gingee_fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f2/East_View_Of_Kistnaghurry.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Festningen_Gingee_i_Karnatik_-_Peter_Anker_%281744%E2%80%931832%29_-_Kulturhistorisk_museum%2C_UiO_-_UEM4446.jpg/960px-Festningen_Gingee_i_Karnatik_-_Peter_Anker_%281744%E2%80%931832%29_-_Kulturhistorisk_museum%2C_UiO_-_UEM4446.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fort_of_Krishnaghirry.jpg/960px-Fort_of_Krishnaghirry.jpg"
+    ],
     name: "Gingee Fort (Senji Fort)",
     city: "Gingee",
     state: "Tamil Nadu",
@@ -916,6 +1294,12 @@ export const MONUMENTS = [
   {
     id: "rock-cut-vishnu-temple-tn",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vsvarahacave.jpg/960px-Vsvarahacave.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/01MahabalipuramShoreTemple.jpg/960px-01MahabalipuramShoreTemple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rock_Cut_Varaha_Temple_Containing_Varaha_And_Vamana_Incarnation_Of_Vishnu_%284%29.jpg/960px-Rock_Cut_Varaha_Temple_Containing_Varaha_And_Vamana_Incarnation_Of_Vishnu_%284%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rock_Cut_Varaha_Temple_Containing_Varaha_And_Vamana_Incarnation_Of_Vishnu_-_3.jpg/960px-Rock_Cut_Varaha_Temple_Containing_Varaha_And_Vamana_Incarnation_Of_Vishnu_-_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Varaha-mahabalipuram.jpg/960px-Varaha-mahabalipuram.jpg"
+    ],
     name: "Rock-cut Vishnu Temple, Narttamalai",
     city: "Narttamalai",
     state: "Tamil Nadu",
@@ -932,6 +1316,12 @@ export const MONUMENTS = [
   {
     id: "konark-sun-temple",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/960px-Konarka_Temple.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/1815_sketch_of_the_sculpture_at_Konarak_Sun_Temple%2C_Odisha_India.jpg/960px-1815_sketch_of_the_sculpture_at_Konarak_Sun_Temple%2C_Odisha_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5b/1822_drawing_of_elevation_of_the_east_side_of_the_Mandapa_of_the_Temple_of_the_Sun%2C_Konarak.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/24_Chariot_Wheels%2C_illustrative_intricate_carving_in_one_at_the_Konarka_Sun_Temple.jpg/960px-24_Chariot_Wheels%2C_illustrative_intricate_carving_in_one_at_the_Konarka_Sun_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2_musicians_a_bansuri_player_and_ghana_player_at_Konark_Sun_Temple_India.jpg/960px-2_musicians_a_bansuri_player_and_ghana_player_at_Konark_Sun_Temple_India.jpg"
+    ],
     name: "Konark Sun Temple",
     city: "Konark",
     state: "Odisha",
@@ -946,6 +1336,12 @@ export const MONUMENTS = [
   {
     id: "rajarani-temple",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rajarani_Temple_2.jpg/960px-Rajarani_Temple_2.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bhuvanesvar1004.jpg/960px-Bhuvanesvar1004.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rajarani_Temple.jpg/960px-Rajarani_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rajarani_Temple_03.jpg/960px-Rajarani_Temple_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rajarani_Temple_2.jpg/960px-Rajarani_Temple_2.jpg"
+    ],
     name: "Rajarani Temple, Bhubaneswar",
     city: "Bhubaneswar",
     state: "Odisha",
@@ -960,6 +1356,12 @@ export const MONUMENTS = [
   {
     id: "udayagiri-khandagiri",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Udayagiri_caves_main_entrance.jpg/960px-Udayagiri_caves_main_entrance.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Udayagiri_and_Khandagiri_Caves%2C_Bhubaneswar-Bhubaneswar-Odisha-img_004.jpg/960px-Udayagiri_and_Khandagiri_Caves%2C_Bhubaneswar-Bhubaneswar-Odisha-img_004.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Udayagiri_and_Khandagiri_Caves_2024_20.jpg/960px-Udayagiri_and_Khandagiri_Caves_2024_20.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Udayagiri_and_Khandagiri_Caves_2024_22.jpg/960px-Udayagiri_and_Khandagiri_Caves_2024_22.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Udayagiri_and_Khandagiri_Caves_2024_24.jpg/960px-Udayagiri_and_Khandagiri_Caves_2024_24.jpg"
+    ],
     name: "Udayagiri & Khandagiri Caves",
     city: "Bhubaneswar",
     state: "Odisha",
@@ -974,6 +1376,12 @@ export const MONUMENTS = [
   {
     id: "ratnagiri",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ratnagiri_roof-top_view.jpg/960px-Ratnagiri_roof-top_view.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/013_Buddha_calling_Earth%2C_11c_Ratnagiri_%289221471240%29.jpg/960px-013_Buddha_calling_Earth%2C_11c_Ratnagiri_%289221471240%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/026_Tara_8c_Ratnagiri_%289218655035%29.jpg/960px-026_Tara_8c_Ratnagiri_%289218655035%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Beautiful_Stone_Murti_at_Ratnagiri..jpg/960px-Beautiful_Stone_Murti_at_Ratnagiri..jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/35/CsAca64UMAAuA1f.jpg"
+    ],
     name: "Buddhist Monuments at Ratnagiri",
     city: "Ratnagiri",
     state: "Odisha",
@@ -988,6 +1396,12 @@ export const MONUMENTS = [
   {
     id: "lalitagiri",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mahastupha_at_Lalitgiri.jpg/960px-Mahastupha_at_Lalitgiri.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Konark_Sun_Temple_Wheel.jpg/960px-Konark_Sun_Temple_Wheel.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lalaitgiri_Museum_1.jpg/960px-Lalaitgiri_Museum_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lalitgiri_Central_structure.jpg/960px-Lalitgiri_Central_structure.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lalitgiri_Complete.jpg/960px-Lalitgiri_Complete.jpg"
+    ],
     name: "Buddhist Monuments at Lalitagiri",
     city: "Cuttack",
     state: "Odisha",
@@ -1002,6 +1416,12 @@ export const MONUMENTS = [
   {
     id: "udayagiri-odisha",
     image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Udayagiri_WIKI.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Buddhist_remains_from_Udayagiri.jpg/960px-Buddhist_remains_from_Udayagiri.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Konark_Sun_Temple_Wheel.jpg/960px-Konark_Sun_Temple_Wheel.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Main_Buddha_in_Udayagiri_monasteries_complex.jpg/960px-Main_Buddha_in_Udayagiri_monasteries_complex.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stupas_of_Udayagiri.jpg/960px-Stupas_of_Udayagiri.jpg"
+    ],
     name: "Buddhist Monuments at Udayagiri (Odisha)",
     city: "Jajpur",
     state: "Odisha",
@@ -1018,6 +1438,12 @@ export const MONUMENTS = [
   {
     id: "jantar-mantar-jaipur",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jantar_Mantar_at_Jaipur.jpg/960px-Jantar_Mantar_at_Jaipur.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bhairav_Temple_Jantar_Mantar_Jaipur.jpg/960px-Bhairav_Temple_Jantar_Mantar_Jaipur.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/960px-Earth-moon.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/JaiPrakashYantraJaipur20080213-3.jpg/960px-JaiPrakashYantraJaipur20080213-3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jaipur%2C_Jantar_Mantar%2C_Brihat_Samrat_Yantra_%289713595658%29.jpg/960px-Jaipur%2C_Jantar_Mantar%2C_Brihat_Samrat_Yantra_%289713595658%29.jpg"
+    ],
     name: "Jantar Mantar (Jaipur)",
     city: "Jaipur",
     state: "Rajasthan",
@@ -1032,6 +1458,12 @@ export const MONUMENTS = [
   {
     id: "amer-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amer_Fort%2C_Jaipur%2C_Rajasthan%2C_India.jpg/960px-Amer_Fort%2C_Jaipur%2C_Rajasthan%2C_India.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20191218_Jaigarh_Fort%2C_Amer%2C_Jaipur_1551_9335.jpg/960px-20191218_Jaigarh_Fort%2C_Amer%2C_Jaipur_1551_9335.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/20191218_Jaigarh_Fort%2C_Amer%2C_Jaipur_1552_9340.jpg/960px-20191218_Jaigarh_Fort%2C_Amer%2C_Jaipur_1552_9340.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20191218_Jaigarh_Fort%2C_Amer%2C_Jaipur_1612_9401.jpg/960px-20191218_Jaigarh_Fort%2C_Amer%2C_Jaipur_1612_9401.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/20191218_Semnopithecus_entellus%2C_Jaigarh_Fort%2C_Amer%2C_Jaipur%2C_1558_9374.jpg/960px-20191218_Semnopithecus_entellus%2C_Jaigarh_Fort%2C_Amer%2C_Jaipur%2C_1558_9374.jpg"
+    ],
     name: "Amer Fort (Amber Fort)",
     city: "Jaipur",
     state: "Rajasthan",
@@ -1046,6 +1478,12 @@ export const MONUMENTS = [
   {
     id: "chittorgarh-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chittorgarh_fort.jpg/960px-Chittorgarh_fort.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/1/12/1882_photo_of_Mahakali_Temple_Kalika_Mata%2C_Chittorgarh.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Chittor_Fort_-_Chittorgarh_-_Rajasthan_-_004.jpg/960px-Chittor_Fort_-_Chittorgarh_-_Rajasthan_-_004.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Chittor_Fort_-_Chittorgarh_-_Rajasthan_-_005.jpg/960px-Chittor_Fort_-_Chittorgarh_-_Rajasthan_-_005.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Chittorgarh_Fort%2C_Chittor%2C_Rajasthan.jpg/960px-Chittorgarh_Fort%2C_Chittor%2C_Rajasthan.jpg"
+    ],
     name: "Chittorgarh Fort",
     city: "Chittorgarh",
     state: "Rajasthan",
@@ -1060,6 +1498,12 @@ export const MONUMENTS = [
   {
     id: "kumbhalgarh-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kumbhalgarh_055.jpg/960px-Kumbhalgarh_055.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aerial_view_of_Kumbhalgarh.jpg/960px-Aerial_view_of_Kumbhalgarh.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Gate_of_kumbhalgarh_fort.jpg/960px-Gate_of_kumbhalgarh_fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kumbhalgarh_008.jpg/960px-Kumbhalgarh_008.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kumbhalgarh_055.jpg/960px-Kumbhalgarh_055.jpg"
+    ],
     name: "Kumbhalgarh Fort",
     city: "Rajsamand",
     state: "Rajasthan",
@@ -1074,6 +1518,12 @@ export const MONUMENTS = [
   {
     id: "ranthambore-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ranthambhore_Fort.jpg/960px-Ranthambhore_Fort.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/1569-Akbar%27s_entry_into_the_fort_of_Ranthambhor.jpg/960px-1569-Akbar%27s_entry_into_the_fort_of_Ranthambhor.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Annapurna_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/41/Battees_Khamba_%2832_Pillars%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fine_rock_art_at_Ranthambhore_Fort.jpg/960px-Fine_rock_art_at_Ranthambhore_Fort.jpg"
+    ],
     name: "Ranthambore Fort",
     city: "Ranthambore",
     state: "Rajasthan",
@@ -1089,6 +1539,10 @@ export const MONUMENTS = [
   {
     id: "gagron-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gagron_fort_2nd_view.jpg/960px-Gagron_fort_2nd_view.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gagron_fort_.jpg/960px-Gagron_fort_.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gagron_fort_2nd_view.jpg/960px-Gagron_fort_2nd_view.jpg"
+    ],
     name: "Gagron Fort",
     city: "Jhalawar",
     state: "Rajasthan",
@@ -1105,6 +1559,12 @@ export const MONUMENTS = [
   {
     id: "jaisalmer-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jaisalmer_forteresse.jpg/960px-Jaisalmer_forteresse.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20170309_094915_Jaisalmer_fort_anagoria.jpg/960px-20170309_094915_Jaisalmer_fort_anagoria.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Cannon_at_Jaisalmer_Fort.jpg/960px-Cannon_at_Jaisalmer_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Corridor_of_Jain_temple_-_Jaisalmer_Fort.jpg/960px-Corridor_of_Jain_temple_-_Jaisalmer_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/DSC_2758b_Jharokha_Jaisalmer_Fort.jpg/960px-DSC_2758b_Jharokha_Jaisalmer_Fort.jpg"
+    ],
     name: "Jaisalmer Fort",
     city: "Jaisalmer",
     state: "Rajasthan",
@@ -1121,6 +1581,12 @@ export const MONUMENTS = [
   {
     id: "champaner",
     image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Jain_Temple%2C_Pavagadh_%28cropped%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/%27Champaneer%2C_near_Baroda%2C_India._Febr._1879%27.jpg/960px-%27Champaneer%2C_near_Baroda%2C_India._Febr._1879%27.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f3/CHAMPNER_GUJARAT.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Champaner%2C_Lila_Gumbaj_Ki_Masjid_%289840188055%29.jpg/960px-Champaner%2C_Lila_Gumbaj_Ki_Masjid_%289840188055%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Champaner_citadel_walls.jpg/960px-Champaner_citadel_walls.jpg"
+    ],
     name: "Champaner-Pavagadh Archaeological Park",
     city: "Champaner",
     state: "Gujarat",
@@ -1135,6 +1601,12 @@ export const MONUMENTS = [
   {
     id: "rani-ki-vav",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Rani_ki_Vav_02.jpg/960px-Rani_ki_Vav_02.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rani_ki_vav_-_Patan_-_Gujarat_-_Wall_Decorations.jpg/960px-Rani_ki_vav_-_Patan_-_Gujarat_-_Wall_Decorations.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rani_ki_vav_10.jpg/960px-Rani_ki_vav_10.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rani_ki_vav_12.jpg/960px-Rani_ki_vav_12.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rani_ki_vav_15.jpg/960px-Rani_ki_vav_15.jpg"
+    ],
     name: "Rani ki Vav (Patan)",
     city: "Patan",
     state: "Gujarat",
@@ -1149,6 +1621,12 @@ export const MONUMENTS = [
   {
     id: "lothal",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/The_drainage_system_at_Lothal_2.JPG/960px-The_drainage_system_at_Lothal_2.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ancient_site_at_Lothal115.jpg/960px-Ancient_site_at_Lothal115.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ancient_site_at_Lothal14.jpg/960px-Ancient_site_at_Lothal14.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ancient_site_at_Lothal16.jpg/960px-Ancient_site_at_Lothal16.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dock_at_lothal.JPG/960px-Dock_at_lothal.JPG"
+    ],
     name: "Lothal (Indus Valley Site)",
     city: "Lothal",
     state: "Gujarat",
@@ -1163,6 +1641,12 @@ export const MONUMENTS = [
   {
     id: "dholavira",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/DHOLAVIRA_SITE_%2824%29.jpg/960px-DHOLAVIRA_SITE_%2824%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cicular_houses_Dholavira.jpg/960px-Cicular_houses_Dholavira.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/DHOLAVIRA_SITE_%2824%29.jpg/960px-DHOLAVIRA_SITE_%2824%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/53/Dholavira-1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/86/Dholavira.jpg"
+    ],
     name: "Dholavira (Harappan City)",
     city: "Dholavira",
     state: "Gujarat",
@@ -1181,6 +1665,12 @@ export const MONUMENTS = [
   {
     id: "sirpur",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/7th_century_Lakshmana_Hindu_temple%2C_Sirpur_Chhattisgarh_India_1.jpg/960px-7th_century_Lakshmana_Hindu_temple%2C_Sirpur_Chhattisgarh_India_1.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/5th_-_7th_century_reliefs_and_statue_Baleshwar_Shiva_temple_ruins%2C_Sirpur_Hindu_monuments_Chhattisgarh_3.jpg/960px-5th_-_7th_century_reliefs_and_statue_Baleshwar_Shiva_temple_ruins%2C_Sirpur_Hindu_monuments_Chhattisgarh_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/7th_-_8th_century_pillar_woman_carrying_a_baby%2C_Hindu_temple_ruins_Sirpur_Chhattisgarh.jpg/960px-7th_-_8th_century_pillar_woman_carrying_a_baby%2C_Hindu_temple_ruins_Sirpur_Chhattisgarh.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/7th_-_9th_century_Surang_tila_temple%2C_Sirpur_monuments_Chhattisgarh.jpg/960px-7th_-_9th_century_Surang_tila_temple%2C_Sirpur_monuments_Chhattisgarh.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/7th_century_Lakshmana_Hindu_temple%2C_Sirpur_Chhattisgarh_India_1.jpg/960px-7th_century_Lakshmana_Hindu_temple%2C_Sirpur_Chhattisgarh_India_1.jpg"
+    ],
     name: "Sirpur Group of Temples",
     city: "Sirpur",
     state: "Chhattisgarh",
@@ -1197,6 +1687,12 @@ export const MONUMENTS = [
   {
     id: "hazarduari",
     image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hazarduari01_debaditya_chatterjee.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Clock_Tower_at_Hazarduari_Palace_Complex.jpg/960px-Clock_Tower_at_Hazarduari_Palace_Complex.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hazarduari01_debaditya_chatterjee.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hazarduari1_debaditya_chatterjee.jpg/960px-Hazarduari1_debaditya_chatterjee.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/Hazarduari2.JPG"
+    ],
     name: "Hazarduari Palace",
     city: "Murshidabad",
     state: "West Bengal",
@@ -1213,6 +1709,12 @@ export const MONUMENTS = [
   {
     id: "range-ghar",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ranghar_-_Assam.jpg/960px-Ranghar_-_Assam.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/RangGhar.jpg/960px-RangGhar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Rang_Ghar_Signage_by_ASI.jpg/960px-Rang_Ghar_Signage_by_ASI.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Rang_Ghar_view_from_pavilion.jpg/960px-Rang_Ghar_view_from_pavilion.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rang_Ghar_view_from_the_entrance.jpg/960px-Rang_Ghar_view_from_the_entrance.jpg"
+    ],
     name: "Rang Ghar",
     city: "Sibasagar",
     state: "Assam",
@@ -1227,6 +1729,12 @@ export const MONUMENTS = [
   {
     id: "kareng-ghar",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kareng_Ghar1.jpg/960px-Kareng_Ghar1.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/AHOM_ROYAL_PALACE_GARGAON-KAREG_GHAR.jpg/960px-AHOM_ROYAL_PALACE_GARGAON-KAREG_GHAR.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1e/A_passage_within_Gargaon_Kareng_Ghar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Gargaon_Kareng_Ghar_or_Gargaon_Palace%2C_of_the_Ahom_Kingdom.jpg/960px-Gargaon_Kareng_Ghar_or_Gargaon_Palace%2C_of_the_Ahom_Kingdom.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kareng_Ghar1.jpg/960px-Kareng_Ghar1.jpg"
+    ],
     name: "Kareng Ghar (Talatal Ghar)",
     city: "Sibasagar",
     state: "Assam",
@@ -1243,6 +1751,10 @@ export const MONUMENTS = [
   {
     id: "roorkee-solani-aqueduct",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Solani_Aquaduct_Of_Ganges_Canal.jpg/960px-Solani_Aquaduct_Of_Ganges_Canal.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Solani_aquaduct_bij_Roorkee_The_Solani_Aqueduct_%28from_the_river%29_%28titel_op_object%29%2C_RP-F-2001-7-1493-13.jpg/960px-Solani_aquaduct_bij_Roorkee_The_Solani_Aqueduct_%28from_the_river%29_%28titel_op_object%29%2C_RP-F-2001-7-1493-13.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Solani_aquaduct_bij_Roorkee_The_Solani_Aqueduct_%28titel_op_object%29%2C_RP-F-2001-7-1493-12.jpg/960px-Solani_aquaduct_bij_Roorkee_The_Solani_Aqueduct_%28titel_op_object%29%2C_RP-F-2001-7-1493-12.jpg"
+    ],
     name: "Roorkee Solani Aqueduct",
     city: "Roorkee",
     state: "Uttarakhand",
@@ -1257,6 +1769,12 @@ export const MONUMENTS = [
   {
     id: "kalsi-ashoka-rock-edict",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kalsi01.jpg/960px-Kalsi01.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/0051823_Major_rock_edict_of_Asoka%2C_Kalsi_Uttarakhand_017.jpg/960px-0051823_Major_rock_edict_of_Asoka%2C_Kalsi_Uttarakhand_017.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/0051823_Major_rock_edict_of_Asoka%2C_Kalsi_Uttarakhand_021.jpg/960px-0051823_Major_rock_edict_of_Asoka%2C_Kalsi_Uttarakhand_021.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/0051823_Major_rock_edict_of_Asoka%2C_Kalsi_Uttarakhand_079.jpg/960px-0051823_Major_rock_edict_of_Asoka%2C_Kalsi_Uttarakhand_079.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/0051823_Major_rock_edict_of_Asoka%2C_Kalsi_Uttarakhand_134.jpg/960px-0051823_Major_rock_edict_of_Asoka%2C_Kalsi_Uttarakhand_134.jpg"
+    ],
     name: "Ashoka Rock Edict, Kalsi",
     city: "Kalsi",
     state: "Uttarakhand",
@@ -1271,6 +1789,12 @@ export const MONUMENTS = [
   {
     id: "masrur-temples",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Masrur_rockcut_temple.jpg/960px-Masrur_rockcut_temple.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/8th_century_Masrur_temple_ground_plan.jpg/960px-8th_century_Masrur_temple_ground_plan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/8th_century_Masrur_temple_roof_plan.jpg/960px-8th_century_Masrur_temple_roof_plan.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/8th_century_Masrur_temple_section.jpg/960px-8th_century_Masrur_temple_section.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/8th_century_rock_cut_Masrur_Hindu_temple%2C_Himachal_Pradesh_India%2C_1913_sketch_annotated.jpg/960px-8th_century_rock_cut_Masrur_Hindu_temple%2C_Himachal_Pradesh_India%2C_1913_sketch_annotated.jpg"
+    ],
     name: "Masrur Rock-cut Temples",
     city: "Kangra",
     state: "Himachal Pradesh",
@@ -1285,6 +1809,12 @@ export const MONUMENTS = [
   {
     id: "kangra-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kangra_Fort_%2CHimachal_Pradesh_06.jpg/960px-Kangra_Fort_%2CHimachal_Pradesh_06.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/b/be/Jullunder_Doab_Kote_Kangra..jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kangra_Fort%28.jpg/960px-Kangra_Fort%28.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kangra_Fort_%2CHimachal_Pradesh_06.jpg/960px-Kangra_Fort_%2CHimachal_Pradesh_06.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Model_of_Kangra_Fort.jpg/960px-Model_of_Kangra_Fort.jpg"
+    ],
     name: "Kangra Fort",
     city: "Kangra",
     state: "Himachal Pradesh",
@@ -1301,6 +1831,12 @@ export const MONUMENTS = [
   {
     id: "bekal-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bakel_Fort_Beach_Kasaragod7.jpg/960px-Bakel_Fort_Beach_Kasaragod7.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bakel_Fort_Beach_Kasaragod4.jpg/960px-Bakel_Fort_Beach_Kasaragod4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bakel_Fort_Beach_Kasaragod7.jpg/960px-Bakel_Fort_Beach_Kasaragod7.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Bakel_fort_from_beach.jpg/960px-Bakel_fort_from_beach.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/54/Bekal-1.jpg"
+    ],
     name: "Bekal Fort",
     city: "Kasaragod",
     state: "Kerala",
@@ -1317,6 +1853,12 @@ export const MONUMENTS = [
   {
     id: "old-goa-churches",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Front_Elevation_of_Basilica_of_Bom_Jesus.jpg/960px-Front_Elevation_of_Basilica_of_Bom_Jesus.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/046CupolaSPietro.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Basilica_of_Bom_Jesus_and_vehicles_parked_infront.jpg/960px-Basilica_of_Bom_Jesus_and_vehicles_parked_infront.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Basilica_of_Bom_Jesus_captured_through_fence.jpg/960px-Basilica_of_Bom_Jesus_captured_through_fence.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Basilica_of_Bom_Jesus_inside_courtyard.jpg/960px-Basilica_of_Bom_Jesus_inside_courtyard.jpg"
+    ],
     name: "Churches and Convents of Old Goa",
     city: "Old Goa",
     state: "Goa",
@@ -1332,6 +1874,10 @@ export const MONUMENTS = [
   {
     id: "chapora-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Fort_Chapora_26012016.jpg/960px-Fort_Chapora_26012016.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chapora_fort_25012016.jpg/960px-Chapora_fort_25012016.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Fort_Chapora_26012016.jpg/960px-Fort_Chapora_26012016.jpg"
+    ],
     name: "Chapora Fort",
     city: "Vagator",
     state: "Goa",
@@ -1346,6 +1892,12 @@ export const MONUMENTS = [
   {
     id: "shivneri-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shivneri_fort1.JPG/960px-Shivneri_fort1.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/MainEntranceGate.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Shivneri.pic.jpg/960px-Shivneri.pic.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shivneri_fort1.JPG/960px-Shivneri_fort1.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shivneri_pic2.jpg/960px-Shivneri_pic2.jpg"
+    ],
     name: "Shivneri Fort",
     city: "Junnar",
     state: "Maharashtra",
@@ -1362,6 +1914,11 @@ export const MONUMENTS = [
   {
     id: "ramtek-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Spire_of_Main_Shrine_-_Ram_Temple%2C_Ramtek.JPG/960px-Spire_of_Main_Shrine_-_Ram_Temple%2C_Ramtek.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Nagpur.png/960px-Nagpur.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Spire_of_Main_Shrine_-_Ram_Temple%2C_Ramtek.JPG/960px-Spire_of_Main_Shrine_-_Ram_Temple%2C_Ramtek.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Summit_of_Shantinath_Jain_Mandir%2C_Ramtek._-_panoramio.jpg/960px-Summit_of_Shantinath_Jain_Mandir%2C_Ramtek._-_panoramio.jpg"
+    ],
     name: "Ramtek Fort",
     city: "Ramtek",
     state: "Maharashtra",
@@ -1378,6 +1935,11 @@ export const MONUMENTS = [
   {
     id: "yadavindra-garden",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pinjore_City_Chandigarh_India.JPG/960px-Pinjore_City_Chandigarh_India.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Migratory_birds_at_Kaushalya_dam%2C_Pinjor%2C_Haryana%2C_India.JPG/960px-Migratory_birds_at_Kaushalya_dam%2C_Pinjor%2C_Haryana%2C_India.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mughal_Gardens_Pinjore.jpg/960px-Mughal_Gardens_Pinjore.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pinjore_City_Chandigarh_India.JPG/960px-Pinjore_City_Chandigarh_India.JPG"
+    ],
     name: "Yadavindra Gardens, Pinjore",
     city: "Pinjore",
     state: "Haryana",
@@ -1394,6 +1956,12 @@ export const MONUMENTS = [
   {
     id: "lord-cornwallis-tomb",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tomb_of_Lord_Cornwallis.jpg/960px-Tomb_of_Lord_Cornwallis.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Lord_Cornwallis_Tomb_Wanderlusts_Paradise.jpg/960px-Lord_Cornwallis_Tomb_Wanderlusts_Paradise.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Marquess_Cornwallis%27_Tomb%2C_Ghazipoor_2007BM7388.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/9/92/Marquess_Cornwallis%27_Tomb%2C_Ghazipoor_2014HA0950.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tomb_of_Lord_Cornwallis.jpg/960px-Tomb_of_Lord_Cornwallis.jpg"
+    ],
     name: "Lord Cornwallis Tomb",
     city: "Ghazipur",
     state: "Uttar Pradesh",
@@ -1410,6 +1978,12 @@ export const MONUMENTS = [
   {
     id: "jaunpur-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jaunpur_citysadar.jpg/960px-Jaunpur_citysadar.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7a/Aerial_View_of_Main_Campus.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Jama_Masjid%2C_Jaunpur_in_1802.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Jaunpur_Jami_Masjid_3.jpg/960px-Jaunpur_Jami_Masjid_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/dd/Jaunpur_Junction_Electrified.jpg"
+    ],
     name: "Shahi Bridge & Fort (Jaunpur)",
     city: "Jaunpur",
     state: "Uttar Pradesh",
@@ -1426,6 +2000,12 @@ export const MONUMENTS = [
   {
     id: "bodh-gaya-mahabodhi",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mahabodhitemple.jpg/960px-Mahabodhitemple.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/063_Flower_Design_%289221997322%29.jpg/960px-063_Flower_Design_%289221997322%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/065_Railing_Design_%289219212079%29.jpg/960px-065_Railing_Design_%289219212079%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Adoration_of_the_Diamond_Throne_and_the_Bodhi_Tree_Bharhut_relief.jpg/960px-Adoration_of_the_Diamond_Throne_and_the_Bodhi_Tree_Bharhut_relief.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Bodh_Gaya_1899.jpg/960px-Bodh_Gaya_1899.jpg"
+    ],
     name: "Mahabodhi Temple, Bodh Gaya",
     city: "Bodh Gaya",
     state: "Bihar",
@@ -1441,6 +2021,12 @@ export const MONUMENTS = [
   {
     id: "vaishali",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India.jpg/960px-Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka_Pillar_Vaishali.png/960px-Ashoka_Pillar_Vaishali.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ashoka_Pillar_and_other_remains_at_Vaishali_%28Bihar%2CIndia%29.jpg/960px-Ashoka_Pillar_and_other_remains_at_Vaishali_%28Bihar%2CIndia%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India.jpg/960px-Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India_2007-01-29.jpg/960px-Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India_2007-01-29.jpg"
+    ],
     name: "Vaishali",
     city: "Vaishali",
     state: "Bihar",
@@ -1457,6 +2043,12 @@ export const MONUMENTS = [
   {
     id: "group-of-monuments-mamallapuram",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg/960px-Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/01MahabalipuramShoreTemple.jpg/960px-01MahabalipuramShoreTemple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Idol_inside_miniature_shrine%2C_Shore_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mamallapuram%2C_Shore_Temple%2C_India.jpg/960px-Mamallapuram%2C_Shore_Temple%2C_India.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mamallapuram%2C_Shore_Temple%2C_Pallava_dynasty%2C_India.jpg/960px-Mamallapuram%2C_Shore_Temple%2C_Pallava_dynasty%2C_India.jpg"
+    ],
     name: "Mahabalipuram — Descent of the Ganges",
     city: "Mahabalipuram",
     state: "Tamil Nadu",
@@ -1472,6 +2064,12 @@ export const MONUMENTS = [
   {
     id: "vittala-temple-hampi",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vittala_Temple_Hampi_2.jpg/960px-Vittala_Temple_Hampi_2.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Hampi_-_Vittala_Temple_-_Entrance_Gopuram.jpg/960px-Hampi_-_Vittala_Temple_-_Entrance_Gopuram.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hampi_-_Vittala_Temple_-_Kalyana_Mandapa_Columns.jpg/960px-Hampi_-_Vittala_Temple_-_Kalyana_Mandapa_Columns.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hampi_-_Vittala_Temple_-_Mahamandapa_Columns.jpg/960px-Hampi_-_Vittala_Temple_-_Mahamandapa_Columns.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Hampi_-_Vittala_Temple_-_Mandapa_Column.jpg/960px-Hampi_-_Vittala_Temple_-_Mandapa_Column.jpg"
+    ],
     name: "Vittala Temple, Hampi",
     city: "Hampi",
     state: "Karnataka",
@@ -1487,6 +2085,12 @@ export const MONUMENTS = [
   {
     id: "srirangapatna",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gopuram_of_the_Ranganathaswamy_Temple%2C_Srirangapatna_Karnataka_India.jpg/960px-Gopuram_of_the_Ranganathaswamy_Temple%2C_Srirangapatna_Karnataka_India.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Anjeneya_temple._Wellesley_Bridge.jpg/960px-Anjeneya_temple._Wellesley_Bridge.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Colonel_Bailey%27s_Dungeon%2C_Srirangapatna_-_Top.jpg/960px-Colonel_Bailey%27s_Dungeon%2C_Srirangapatna_-_Top.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Colonel_Bailey%27s_Dungeon_-_Ground_View.jpg/960px-Colonel_Bailey%27s_Dungeon_-_Ground_View.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coracle_riding_at_Sangamam.jpg/960px-Coracle_riding_at_Sangamam.jpg"
+    ],
     name: "Tipu Sultan's Fort & Palace, Srirangapatna",
     city: "Srirangapatna",
     state: "Karnataka",
@@ -1501,6 +2105,12 @@ export const MONUMENTS = [
   {
     id: "warangal-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Shiv_Linga_at_Warangal_Fort_Complex.jpg/960px-Shiv_Linga_at_Warangal_Fort_Complex.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/A_few_Tourist_attraction_spots_in_Warangal_Tri-Cities.jpg/960px-A_few_Tourist_attraction_spots_in_Warangal_Tri-Cities.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Architecture_Warangal_Fort%282%29.jpg/960px-Architecture_Warangal_Fort%282%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Architecture_Warangal_Fort.jpg/960px-Architecture_Warangal_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/12/Kaapaneedu.jpg"
+    ],
     name: "Warangal Fort",
     city: "Warangal",
     state: "Telangana",
@@ -1515,6 +2125,12 @@ export const MONUMENTS = [
   {
     id: "ramappa-temple",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ramappa_Temple_%28Human_Scale%29.jpg/960px-Ramappa_Temple_%28Human_Scale%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bhadrachalam_temple_View_from_Lord_Narasimha_Temple.JPG/960px-Bhadrachalam_temple_View_from_Lord_Narasimha_Temple.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/Kota_gullu.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sangameshwar_Temple_at_Alampur.JPG/960px-Sangameshwar_Temple_at_Alampur.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Sri_Chaya_Someswara_Temple_at_Pangal.jpg/960px-Sri_Chaya_Someswara_Temple_at_Pangal.jpg"
+    ],
     name: "Ramappa Temple (Rudresvara)",
     city: "Mulugu",
     state: "Telangana",
@@ -1529,6 +2145,12 @@ export const MONUMENTS = [
   {
     id: "mandu-jahaz-mahal",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jahaz_Mahal_on_the_bank_of_Hauz-i-Shamsi.jpg/960px-Jahaz_Mahal_on_the_bank_of_Hauz-i-Shamsi.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Front_view_of_Jahaz_Mahal%2C_Mehrauli.jpg/960px-Front_view_of_Jahaz_Mahal%2C_Mehrauli.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jahaz_Mahal%2CMehrauli%2CNew_Delhi%2CIndia.jpg/960px-Jahaz_Mahal%2CMehrauli%2CNew_Delhi%2CIndia.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jahaz_Mahal_on_the_bank_of_Hauz-i-Shamsi.jpg/960px-Jahaz_Mahal_on_the_bank_of_Hauz-i-Shamsi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jahaz_Mahal_on_the_bank_of_Hauz-i-Shamsi_tank.jpg/960px-Jahaz_Mahal_on_the_bank_of_Hauz-i-Shamsi_tank.jpg"
+    ],
     name: "Jahaz Mahal, Mandu",
     city: "Mandu",
     state: "Madhya Pradesh",
@@ -1544,6 +2166,12 @@ export const MONUMENTS = [
   {
     id: "jaisalmer-gadisar-lake",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Main_entrance_of_Gadisar_Lake.jpg/960px-Main_entrance_of_Gadisar_Lake.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Gadisar_Lake_8684.jpg/960px-Gadisar_Lake_8684.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gadisar_lake.jpg/960px-Gadisar_lake.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Jaisalmer_Amar_Sagar.jpg/960px-Jaisalmer_Amar_Sagar.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Magical_morning.jpg/960px-Magical_morning.jpg"
+    ],
     name: "Gadisar Lake & Monuments, Jaisalmer",
     city: "Jaisalmer",
     state: "Rajasthan",
@@ -1558,6 +2186,12 @@ export const MONUMENTS = [
   {
     id: "gwalior-man-singh-palace",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gwalior_Fort_front.jpg/960px-Gwalior_Fort_front.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/0121521_Man_Singh_Palace%2C_Gwalior_Fort_Madhya_Pradesh_01.jpg/960px-0121521_Man_Singh_Palace%2C_Gwalior_Fort_Madhya_Pradesh_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/0121521_Man_Singh_Palace%2C_Gwalior_Fort_Madhya_Pradesh_04.jpg/960px-0121521_Man_Singh_Palace%2C_Gwalior_Fort_Madhya_Pradesh_04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/0121521_Man_Singh_Palace%2C_Gwalior_Fort_Madhya_Pradesh_05.jpg/960px-0121521_Man_Singh_Palace%2C_Gwalior_Fort_Madhya_Pradesh_05.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/0121521_Mughal_Empire_Prison_and_Torture_Chambers%2C_Man_Singh_Palace%2C_Gwalior_Fort_Madhya_Pradesh_01.jpg/960px-0121521_Mughal_Empire_Prison_and_Torture_Chambers%2C_Man_Singh_Palace%2C_Gwalior_Fort_Madhya_Pradesh_01.jpg"
+    ],
     name: "Man Singh Palace, Gwalior",
     city: "Gwalior",
     state: "Madhya Pradesh",
@@ -1573,6 +2207,12 @@ export const MONUMENTS = [
   {
     id: "bhubaneswar-parasuramesvara",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Parsurameswara_temple_complex.jpg/960px-Parsurameswara_temple_complex.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Parasuramesvara_Temple.jpg/960px-Parasuramesvara_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Parasuramesvara_Temple_-_Elephants.jpg/960px-Parasuramesvara_Temple_-_Elephants.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Parasuramesvara_Temple_-_Lingam.jpg/960px-Parasuramesvara_Temple_-_Lingam.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Parasuramesvara_Temple_05.jpg/960px-Parasuramesvara_Temple_05.jpg"
+    ],
     name: "Parasuramesvara Temple, Bhubaneswar",
     city: "Bhubaneswar",
     state: "Odisha",
@@ -1587,6 +2227,12 @@ export const MONUMENTS = [
   {
     id: "dhar-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh.jpg/960px-Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh_3.jpg/960px-Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh_3.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh_4.jpg/960px-Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh_4.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh_5.jpg/960px-Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh_5.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh_6.jpg/960px-Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh_6.jpg"
+    ],
     name: "Dhar Fort",
     city: "Dhar",
     state: "Madhya Pradesh",
@@ -1601,6 +2247,12 @@ export const MONUMENTS = [
   {
     id: "agra-fort-sheesh-mahal",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Agra_Fort_Shish_Mahal-Agra-Uttar_Pradesh-N-UP-A1-y.jpg/960px-Agra_Fort_Shish_Mahal-Agra-Uttar_Pradesh-N-UP-A1-y.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Agra_Fort_Shish_Mahal-Agra-Uttar_Pradesh-N-UP-A1-y.jpg/960px-Agra_Fort_Shish_Mahal-Agra-Uttar_Pradesh-N-UP-A1-y.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Shah_Jahan_prison_in_Agra_Fort.03.jpg/960px-Shah_Jahan_prison_in_Agra_Fort.03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sheesh_Mahal.JPG/960px-Sheesh_Mahal.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Shish_Mahal-the_Royal_Hamam.jpg/960px-Shish_Mahal-the_Royal_Hamam.jpg"
+    ],
     name: "Tomb of Salim Chishti, Fatehpur Sikri",
     city: "Fatehpur Sikri",
     state: "Uttar Pradesh",
@@ -1616,6 +2268,12 @@ export const MONUMENTS = [
   {
     id: "khajuraho-eastern-group",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/1_Khajuraho.jpg/960px-1_Khajuraho.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/1_Khajuraho.jpg/960px-1_Khajuraho.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/71/2_Erotic_Kama_statues_of_Khajuraho_Hindu_Temple_de_Lakshmana_Khajur%C3%A2ho_India_2013.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/A_Khajuraho_Temple_ceiling_design.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/A_ruin%2C_pillars_at_Khajuraho%2C_India.jpg/960px-A_ruin%2C_pillars_at_Khajuraho%2C_India.jpg"
+    ],
     name: "Khajuraho Temples (Eastern & Southern Group)",
     city: "Khajuraho",
     state: "Madhya Pradesh",
@@ -1630,6 +2288,11 @@ export const MONUMENTS = [
   {
     id: "adalaj-stepwell",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Adalaj_ki_Vav_Gujarat_240A1370_72.jpg/960px-Adalaj_ki_Vav_Gujarat_240A1370_72.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Adalaj_ki_Vav_Gujarat_240A1370_72.jpg/960px-Adalaj_ki_Vav_Gujarat_240A1370_72.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Market_in_Adalaj_01.jpg/960px-Market_in_Adalaj_01.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Trimurti_Mandir.jpg/960px-Trimurti_Mandir.jpg"
+    ],
     name: "Adalaj Stepwell (Vav)",
     city: "Adalaj",
     state: "Gujarat",
@@ -1644,6 +2307,12 @@ export const MONUMENTS = [
   {
     id: "nalanda-archaeological-site",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nalanda_university_ruins.jpg/960px-Nalanda_university_ruins.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Exhibits_in_display_at_Archeological_Survey_of_India%27s_museum_at_Nalanda%2C_Bihar%2C_India_04.jpg/960px-Exhibits_in_display_at_Archeological_Survey_of_India%27s_museum_at_Nalanda%2C_Bihar%2C_India_04.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Historic_heritage_sites_of_Bihar_with_GPS_coordinates.jpg/960px-Historic_heritage_sites_of_Bihar_with_GPS_coordinates.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nalanda_14_spider_%2832150419016%29.jpg/960px-Nalanda_14_spider_%2832150419016%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ruins_of_the_Baladitya_Temple%2C_Nalanda%2C_Bihar%2C_1872_photo.jpg"
+    ],
     name: "Nalanda Archaeological Museum",
     city: "Nalanda",
     state: "Bihar",
@@ -1659,6 +2328,12 @@ export const MONUMENTS = [
   {
     id: "sarnath-museum",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/960px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/1_Sarnath_Temple_Buddhism_Le_Mulagandhakuti_Vih%C4%81ra_S%C3%A2rn%C3%A2th_Varanasi_India_2013.jpg/960px-1_Sarnath_Temple_Buddhism_Le_Mulagandhakuti_Vih%C4%81ra_S%C3%A2rn%C3%A2th_Varanasi_India_2013.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2015.207530.Archaeological-Survey_0099.jpg/960px-2015.207530.Archaeological-Survey_0099.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_Buddhist_temple_at_Sarnath.jpg/960px-A_Buddhist_temple_at_Sarnath.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/960px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg"
+    ],
     name: "Sarnath Archaeological Museum",
     city: "Sarnath",
     state: "Uttar Pradesh",
@@ -1673,6 +2348,12 @@ export const MONUMENTS = [
   {
     id: "ajmer-adhai-din",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Adhai_Din-ka-Jhonpra_Screen_wall_%286133975257%29.jpg/960px-Adhai_Din-ka-Jhonpra_Screen_wall_%286133975257%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/1/1b/Adhai-din-ka-Jhopra_05.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adhai-din-ka-Jhopra_07.jpg/960px-Adhai-din-ka-Jhopra_07.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Adhai-din-ka-Jhopra_08.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Adhai_Din-ka-Jhonpra_Arcade_%286134519070%29.jpg/960px-Adhai_Din-ka-Jhonpra_Arcade_%286134519070%29.jpg"
+    ],
     name: "Adhai-din-ka-Jhonpra, Ajmer",
     city: "Ajmer",
     state: "Rajasthan",
@@ -1687,6 +2368,12 @@ export const MONUMENTS = [
   {
     id: "bidar-fort",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gumbaz_Darwaza_of_the_Bidar_fort_%28cropped%29.jpg/960px-Gumbaz_Darwaza_of_the_Bidar_fort_%28cropped%29.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/2/26/AN_IMPERIAL_FIRMAN_OF_MUGHAL_EMPEROR_AURANGZEB_%28NORTH_INDIA%2C_DATED_1702_AD%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Arches_Arches_everywhere.jpg/960px-Arches_Arches_everywhere.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bidar-Fort-Large-Gun.png/960px-Bidar-Fort-Large-Gun.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bidar_-_Fort_%284278998017%29.jpg/960px-Bidar_-_Fort_%284278998017%29.jpg"
+    ],
     name: "Bidar Fort",
     city: "Bidar",
     state: "Karnataka",
@@ -1701,6 +2388,12 @@ export const MONUMENTS = [
   {
     id: "golconda-qutb-shahi-tombs",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Qutb_Shahi_Tomb_5.jpg/960px-Qutb_Shahi_Tomb_5.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Badi_Baoli%2C_Qutb_Shahi_Tombs.jpg/960px-Badi_Baoli%2C_Qutb_Shahi_Tombs.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charminar_Hyderabad_1.jpg/960px-Charminar_Hyderabad_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FatimaSultanaTomb.jpg/960px-FatimaSultanaTomb.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Golconda%2C_tomba_di_Jamsheed_quli_qutb_shah%2C_m._1580%2C_06.jpg/960px-Golconda%2C_tomba_di_Jamsheed_quli_qutb_shah%2C_m._1580%2C_06.jpg"
+    ],
     name: "Qutb Shahi Tombs, Hyderabad",
     city: "Hyderabad",
     state: "Telangana",
@@ -1715,6 +2408,12 @@ export const MONUMENTS = [
   {
     id: "vittalapur-cave",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BadamiCaves87.JPG/960px-BadamiCaves87.JPG",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/6th_-_7th_century_Badami_cave_temples_layout_exterior_annotated.jpg/960px-6th_-_7th_century_Badami_cave_temples_layout_exterior_annotated.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/6th_century_Kannada_inscription_in_cave_temple_number_3_at_Badami.jpg/960px-6th_century_Kannada_inscription_in_cave_temple_number_3_at_Badami.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/6th_century_Vishnu_lifting_a_collapsing_woman_on_pillar_top_looking_below_in_Cave_3%2C_Badami_Hindu_cave_temple_Karnataka_1.jpg/960px-6th_century_Vishnu_lifting_a_collapsing_woman_on_pillar_top_looking_below_in_Cave_3%2C_Badami_Hindu_cave_temple_Karnataka_1.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/6th_century_amorous_couple_on_pillar_top_looking_below_in_Cave_3%2C_Badami_Hindu_cave_temple_Karnataka_1.jpg/960px-6th_century_amorous_couple_on_pillar_top_looking_below_in_Cave_3%2C_Badami_Hindu_cave_temple_Karnataka_1.jpg"
+    ],
     name: "Badami Fort & Agasthyatirtha",
     city: "Badami",
     state: "Karnataka",
@@ -1729,6 +2428,12 @@ export const MONUMENTS = [
   {
     id: "ellora-kailasa",
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kailasa_temple_at_Ellora.jpg/960px-Kailasa_temple_at_Ellora.jpg",
+    images: [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ellora_Cave_16_Kailasa_Temple.jpg/960px-Ellora_Cave_16_Kailasa_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ellora_Caves%2C_India%2C_Kailasa_Temple.jpg/960px-Ellora_Caves%2C_India%2C_Kailasa_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ellora_Caves%2C_India%2C_Majestic_Kailasa_Temple.jpg/960px-Ellora_Caves%2C_India%2C_Majestic_Kailasa_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ellora_Caves%2C_India%2C_Pillars_at_Kailasa_Temple.jpg/960px-Ellora_Caves%2C_India%2C_Pillars_at_Kailasa_Temple.jpg"
+    ],
     name: "Kailasa Temple, Ellora",
     city: "Aurangabad",
     state: "Maharashtra",
