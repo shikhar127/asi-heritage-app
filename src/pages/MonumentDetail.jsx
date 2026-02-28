@@ -28,8 +28,9 @@ export default function MonumentDetail() {
   const childPrice = pricing[selectedVisitor.childKey] || 0;
   const total = adults * adultPrice + children * childPrice;
 
+  const PORTAL = "https://asi.payumoney.com/";
   const handleBook = () => {
-    window.open(bookingUrl, "_blank", "noopener,noreferrer");
+    window.open(bookingUrl || PORTAL, "_blank", "noopener,noreferrer");
   };
 
   return (
@@ -196,7 +197,7 @@ export default function MonumentDetail() {
               Book on ASI Portal ↗
             </button>
             <p className="text-xs text-stone-400 text-center mt-2">
-              Opens official asi.payumoney.com in a new tab
+              {bookingUrl ? "Opens this monument's booking page directly" : "Opens asi.payumoney.com — search for this monument"}
             </p>
 
             <div className="mt-4 pt-4 border-t border-stone-100">

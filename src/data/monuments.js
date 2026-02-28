@@ -13,6 +13,7 @@ export const MONUMENTS = [
     timings: "Sunrise to Sunset (closed Friday)",
     pricing: { indian: 50, indianChild: 0, saarc: 540, foreign: 1100, foreignChild: 550 },
     extraNote: "Additional ₹200 for entry to main mausoleum chamber. Night viewing on full moon nights: ₹750 flat per person.",
+    bookingUrl: "https://asi.payumoney.com/quick/taj",
     tags: ["Popular", "UNESCO", "Mughal"],
   },
   {
@@ -27,6 +28,7 @@ export const MONUMENTS = [
     unesco: true,
     timings: "Sunrise to Sunset (all days)",
     pricing: { indian: 50, indianChild: 0, saarc: 90, foreign: 650, foreignChild: 325 },
+    bookingUrl: "https://asi.payumoney.com/quick/agf",
     tags: ["UNESCO", "Mughal", "Popular"],
   },
   {
@@ -73,7 +75,7 @@ export const MONUMENTS = [
   },
   {
     id: "mariams-tomb",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/960px-Agra_03-2016_10_Agra_Fort.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mariam%27s_Tomb%2C_Sikandra%2C_Agra.JPG/960px-Mariam%27s_Tomb%2C_Sikandra%2C_Agra.JPG",
     name: "Mariam's Tomb (Sikandra)",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -101,7 +103,7 @@ export const MONUMENTS = [
   },
   {
     id: "rambagh",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/960px-Taj_Mahal_%28Edited%29.jpeg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Chhatri_at_Arambagh_2.jpg/960px-Chhatri_at_Arambagh_2.jpg",
     name: "Ram Bagh (Aram Bagh)",
     city: "Agra",
     state: "Uttar Pradesh",
@@ -127,6 +129,7 @@ export const MONUMENTS = [
     unesco: true,
     timings: "9:30 AM – 4:30 PM (closed Monday)",
     pricing: { indian: 35, indianChild: 0, saarc: 35, foreign: 500, foreignChild: 250 },
+    bookingUrl: "https://asi.payumoney.com/quick/red",
     tags: ["Popular", "UNESCO", "Mughal"],
   },
   {
@@ -578,7 +581,7 @@ export const MONUMENTS = [
   },
   {
     id: "pandav-leni",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/960px-Ajanta_%2863%29.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/010_Cave_3%2C_Exterior_%2833156264563%29.jpg/960px-010_Cave_3%2C_Exterior_%2833156264563%29.jpg",
     name: "Pandav Leni Caves (Nashik)",
     city: "Nashik",
     state: "Maharashtra",
@@ -812,7 +815,7 @@ export const MONUMENTS = [
   },
   {
     id: "guntupalli-caves",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/960px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Entrance_of_Rock-cut_temple.JPG/960px-Entrance_of_Rock-cut_temple.JPG",
     name: "Buddhist Monuments at Guntupalli",
     city: "Eluru",
     state: "Andhra Pradesh",
@@ -912,7 +915,7 @@ export const MONUMENTS = [
   },
   {
     id: "rock-cut-vishnu-temple-tn",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg/960px-Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vsvarahacave.jpg/960px-Vsvarahacave.jpg",
     name: "Rock-cut Vishnu Temple, Narttamalai",
     city: "Narttamalai",
     state: "Tamil Nadu",
@@ -1177,7 +1180,7 @@ export const MONUMENTS = [
   // ─── BHOPAL / JABALPUR CIRCLE (Chhattisgarh) ─────────────────────────────────
   {
     id: "sirpur",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Nalanda_university_ruins.jpg/960px-Nalanda_university_ruins.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/7th_century_Lakshmana_Hindu_temple%2C_Sirpur_Chhattisgarh_India_1.jpg/960px-7th_century_Lakshmana_Hindu_temple%2C_Sirpur_Chhattisgarh_India_1.jpg",
     name: "Sirpur Group of Temples",
     city: "Sirpur",
     state: "Chhattisgarh",
@@ -1209,7 +1212,7 @@ export const MONUMENTS = [
   // ─── GUWAHATI CIRCLE (Northeast India) ──────────────────────────────────────
   {
     id: "range-ghar",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kareng_Ghar1.jpg/960px-Kareng_Ghar1.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ranghar_-_Assam.jpg/960px-Ranghar_-_Assam.jpg",
     name: "Rang Ghar",
     city: "Sibasagar",
     state: "Assam",
@@ -1239,7 +1242,7 @@ export const MONUMENTS = [
   // ─── DEHRADUN / SHIMLA CIRCLE (Uttarakhand / Himachal) ──────────────────────
   {
     id: "roorkee-solani-aqueduct",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/960px-Delhi_fort.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Solani_Aquaduct_Of_Ganges_Canal.jpg/960px-Solani_Aquaduct_Of_Ganges_Canal.jpg",
     name: "Roorkee Solani Aqueduct",
     city: "Roorkee",
     state: "Uttarakhand",
@@ -1253,7 +1256,7 @@ export const MONUMENTS = [
   },
   {
     id: "kalsi-ashoka-rock-edict",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/960px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Kalsi01.jpg/960px-Kalsi01.jpg",
     name: "Ashoka Rock Edict, Kalsi",
     city: "Kalsi",
     state: "Uttarakhand",
@@ -1267,7 +1270,7 @@ export const MONUMENTS = [
   },
   {
     id: "masrur-temples",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kangra_Fort_%2CHimachal_Pradesh_06.jpg/960px-Kangra_Fort_%2CHimachal_Pradesh_06.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Masrur_rockcut_temple.jpg/960px-Masrur_rockcut_temple.jpg",
     name: "Masrur Rock-cut Temples",
     city: "Kangra",
     state: "Himachal Pradesh",
@@ -1342,7 +1345,7 @@ export const MONUMENTS = [
   },
   {
     id: "shivneri-fort",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Chittorgarh_fort.jpg/960px-Chittorgarh_fort.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shivneri_fort1.JPG/960px-Shivneri_fort1.JPG",
     name: "Shivneri Fort",
     city: "Junnar",
     state: "Maharashtra",
@@ -1437,7 +1440,7 @@ export const MONUMENTS = [
   },
   {
     id: "vaishali",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg/960px-Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India.jpg/960px-Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India.jpg",
     name: "Vaishali",
     city: "Vaishali",
     state: "Bihar",
@@ -1569,7 +1572,7 @@ export const MONUMENTS = [
   },
   {
     id: "bhubaneswar-parasuramesvara",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Rajarani_Temple_2.jpg/960px-Rajarani_Temple_2.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Parsurameswara_temple_complex.jpg/960px-Parsurameswara_temple_complex.jpg",
     name: "Parasuramesvara Temple, Bhubaneswar",
     city: "Bhubaneswar",
     state: "Odisha",
@@ -1583,7 +1586,7 @@ export const MONUMENTS = [
   },
   {
     id: "dhar-fort",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/JahazMahal.jpg/960px-JahazMahal.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh.jpg/960px-Dhar_Fort%2C_Dhar%2C_Madhya_Pradesh.jpg",
     name: "Dhar Fort",
     city: "Dhar",
     state: "Madhya Pradesh",
@@ -1597,7 +1600,7 @@ export const MONUMENTS = [
   },
   {
     id: "agra-fort-sheesh-mahal",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Agra_03-2016_10_Agra_Fort.jpg/960px-Agra_03-2016_10_Agra_Fort.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Agra_Fort_Shish_Mahal-Agra-Uttar_Pradesh-N-UP-A1-y.jpg/960px-Agra_Fort_Shish_Mahal-Agra-Uttar_Pradesh-N-UP-A1-y.jpg",
     name: "Tomb of Salim Chishti, Fatehpur Sikri",
     city: "Fatehpur Sikri",
     state: "Uttar Pradesh",
@@ -1711,7 +1714,7 @@ export const MONUMENTS = [
   },
   {
     id: "vittalapur-cave",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/960px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BadamiCaves87.JPG/960px-BadamiCaves87.JPG",
     name: "Badami Fort & Agasthyatirtha",
     city: "Badami",
     state: "Karnataka",
